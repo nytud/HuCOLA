@@ -1,0 +1,3602 @@
+[
+    {
+        "Sent_id": "test_0",
+        "Sent": "Gyula számított, amit ígértél."
+    },
+    {
+        "Sent_id": "test_1",
+        "Sent": "Olyan a saroktól indulok."
+    },
+    {
+        "Sent_id": "test_2",
+        "Sent": "A mosószer kifehérítette a szoknyát."
+    },
+    {
+        "Sent_id": "test_3",
+        "Sent": "Valahányszor énekeltünk, mindig ideges lett."
+    },
+    {
+        "Sent_id": "test_4",
+        "Sent": "Ez által értettem meg én is."
+    },
+    {
+        "Sent_id": "test_5",
+        "Sent": "Ez szemét volt tőled."
+    },
+    {
+        "Sent_id": "test_6",
+        "Sent": "Arra a véleményre, hogy a kormány megbukott, már többen is utaltak."
+    },
+    {
+        "Sent_id": "test_7",
+        "Sent": "A képen Mari fia angyal."
+    },
+    {
+        "Sent_id": "test_8",
+        "Sent": "Péter Szovjetunióban tanuló barátai."
+    },
+    {
+        "Sent_id": "test_9",
+        "Sent": "Pontosan a régi házig mentem."
+    },
+    {
+        "Sent_id": "test_10",
+        "Sent": "A bomba a házhoz robbant."
+    },
+    {
+        "Sent_id": "test_11",
+        "Sent": "Piroska az újságkihordótól, holott Vali az házmestertől tudta meg a legfontosabb híreket."
+    },
+    {
+        "Sent_id": "test_12",
+        "Sent": "Péter beállt negyediknek."
+    },
+    {
+        "Sent_id": "test_13",
+        "Sent": "A vadász rálőtt a nyúlra."
+    },
+    {
+        "Sent_id": "test_14",
+        "Sent": "A felügyelő szerencsére döntésre jutott."
+    },
+    {
+        "Sent_id": "test_15",
+        "Sent": "Azt Andrea gondolta, hogy megnyerem a versenyt."
+    },
+    {
+        "Sent_id": "test_16",
+        "Sent": "A szorgalmasak kirándulni mennek."
+    },
+    {
+        "Sent_id": "test_17",
+        "Sent": "Megvesszük azt a két zöld kabátot és ezeket a kék kalapokat?"
+    },
+    {
+        "Sent_id": "test_18",
+        "Sent": "Az ő ellenére bejutottam a céghez."
+    },
+    {
+        "Sent_id": "test_19",
+        "Sent": "Emil tanácsa volt, hogy távozzunk."
+    },
+    {
+        "Sent_id": "test_20",
+        "Sent": "Ili ki is ment a kertbe."
+    },
+    {
+        "Sent_id": "test_21",
+        "Sent": "Péter ruhát mos."
+    },
+    {
+        "Sent_id": "test_22",
+        "Sent": "Mari hízott birkózónak."
+    },
+    {
+        "Sent_id": "test_23",
+        "Sent": "A pápa Pestre való megérkezése miatt elmaradt az előadás."
+    },
+    {
+        "Sent_id": "test_24",
+        "Sent": "Abban a pillanatban, amikor az autó elindult, átváltott a jelzőlámpa."
+    },
+    {
+        "Sent_id": "test_25",
+        "Sent": "János lakik."
+    },
+    {
+        "Sent_id": "test_26",
+        "Sent": "Imre szörnyen gazdag volt."
+    },
+    {
+        "Sent_id": "test_27",
+        "Sent": "Ki látta a kútba való belezuhanást?"
+    },
+    {
+        "Sent_id": "test_28",
+        "Sent": "A 20. században történt."
+    },
+    {
+        "Sent_id": "test_29",
+        "Sent": "Hogy távozzunk, Emil tanácsa volt az."
+    },
+    {
+        "Sent_id": "test_30",
+        "Sent": "Londonban az a helyzet, hogy a felügyelő döntésre jutott."
+    },
+    {
+        "Sent_id": "test_31",
+        "Sent": "Artúr nagyon locsolta meg a virágokat."
+    },
+    {
+        "Sent_id": "test_32",
+        "Sent": "Kati Ferivel is barátságos volt."
+    },
+    {
+        "Sent_id": "test_33",
+        "Sent": "Só nélkül készült az ebéd."
+    },
+    {
+        "Sent_id": "test_34",
+        "Sent": "Az iskola legismertebb tanáraként ezt nem engedhetem meg magamnak."
+    },
+    {
+        "Sent_id": "test_35",
+        "Sent": "Péter a fa mellett lakik."
+    },
+    {
+        "Sent_id": "test_36",
+        "Sent": "A filmet rendezte: Jancsó Miklós."
+    },
+    {
+        "Sent_id": "test_37",
+        "Sent": "A kapitány sokára érkezett a kastélyba."
+    },
+    {
+        "Sent_id": "test_38",
+        "Sent": "Sokan érdekklődtek a biztonsági emberek összeesküvése felől a király ellen."
+    },
+    {
+        "Sent_id": "test_39",
+        "Sent": "Mari idegesnek látszott."
+    },
+    {
+        "Sent_id": "test_40",
+        "Sent": "El kell mennem."
+    },
+    {
+        "Sent_id": "test_41",
+        "Sent": "Piroska vett észre egy színes televíziót, és vásárolta meg."
+    },
+    {
+        "Sent_id": "test_42",
+        "Sent": "Nekem el kell mennem."
+    },
+    {
+        "Sent_id": "test_43",
+        "Sent": "János hidegen ette meg a levest."
+    },
+    {
+        "Sent_id": "test_44",
+        "Sent": "A tészta megdagadt az élesztőtől."
+    },
+    {
+        "Sent_id": "test_45",
+        "Sent": "Pálnak a helyében nem tenném ezt."
+    },
+    {
+        "Sent_id": "test_46",
+        "Sent": "Csak Béla ment el."
+    },
+    {
+        "Sent_id": "test_47",
+        "Sent": "Énekesben én csalódtam keservesen."
+    },
+    {
+        "Sent_id": "test_48",
+        "Sent": "Jött le a lépcsőn, amikor megszólalt a telefon."
+    },
+    {
+        "Sent_id": "test_49",
+        "Sent": "Az edző büszke a fiúkra."
+    },
+    {
+        "Sent_id": "test_50",
+        "Sent": "Imrét senki észre nem vette."
+    },
+    {
+        "Sent_id": "test_51",
+        "Sent": "Péter az erdőben lakik."
+    },
+    {
+        "Sent_id": "test_52",
+        "Sent": "Bálint kézbe vesz egy tollat."
+    },
+    {
+        "Sent_id": "test_53",
+        "Sent": "Sokan nem úgy tudják, hogy ez a szervezet vagyontalan."
+    },
+    {
+        "Sent_id": "test_54",
+        "Sent": "Imre Erzsivel találkozik gyakran, Lajos pedig Marival."
+    },
+    {
+        "Sent_id": "test_55",
+        "Sent": "Az almának rohadt volt a fele."
+    },
+    {
+        "Sent_id": "test_56",
+        "Sent": "A bor hidegen tartása nagyon fontos."
+    },
+    {
+        "Sent_id": "test_57",
+        "Sent": "Péter dolgozni akar."
+    },
+    {
+        "Sent_id": "test_58",
+        "Sent": "A kapitány rosszul teljesítette a feladatot."
+    },
+    {
+        "Sent_id": "test_59",
+        "Sent": "Kati belenyugodott a döntésbe."
+    },
+    {
+        "Sent_id": "test_60",
+        "Sent": "Ili jól oldotta meg a feladatot."
+    },
+    {
+        "Sent_id": "test_61",
+        "Sent": "Olívia jól oldotta meg az ügyet."
+    },
+    {
+        "Sent_id": "test_62",
+        "Sent": "Nagyon tetszett a film."
+    },
+    {
+        "Sent_id": "test_63",
+        "Sent": "Feri újranevettette Marit."
+    },
+    {
+        "Sent_id": "test_64",
+        "Sent": "Ez szép volt tőled."
+    },
+    {
+        "Sent_id": "test_65",
+        "Sent": "Sanyi cselédre tekinti a feleségét."
+    },
+    {
+        "Sent_id": "test_66",
+        "Sent": "A szerelő megérkezésekor éppen szivárgott ki víz a falból."
+    },
+    {
+        "Sent_id": "test_67",
+        "Sent": "Péter rosszulléte megijesztett."
+    },
+    {
+        "Sent_id": "test_68",
+        "Sent": "Viszonteladók részére kedvezményt biztosítunk."
+    },
+    {
+        "Sent_id": "test_69",
+        "Sent": "Tetszik Várady Géza könyve, amelyik új módon tárgyalja a szabadságharcot."
+    },
+    {
+        "Sent_id": "test_70",
+        "Sent": "János nem veszett össze velük."
+    },
+    {
+        "Sent_id": "test_71",
+        "Sent": "Ili masszőrnél van."
+    },
+    {
+        "Sent_id": "test_72",
+        "Sent": "Sokan tudták, hogy Aranka férjhez ment."
+    },
+    {
+        "Sent_id": "test_73",
+        "Sent": "6 óra óta várok."
+    },
+    {
+        "Sent_id": "test_74",
+        "Sent": "Mari nagyon boldog."
+    },
+    {
+        "Sent_id": "test_75",
+        "Sent": "Imádom azt a te kis helyes kalapodat, amit a Váci utcában vettél!"
+    },
+    {
+        "Sent_id": "test_76",
+        "Sent": "Ili a kórházban dolgozik."
+    },
+    {
+        "Sent_id": "test_77",
+        "Sent": "A konyhában dolgoztam."
+    },
+    {
+        "Sent_id": "test_78",
+        "Sent": "Pali nem fog kelleni senkinek."
+    },
+    {
+        "Sent_id": "test_79",
+        "Sent": "Éva alattam maradt."
+    },
+    {
+        "Sent_id": "test_80",
+        "Sent": "János az anyósát hívta fel, Péter pedig a barátnőjét."
+    },
+    {
+        "Sent_id": "test_81",
+        "Sent": "Péternek az ebéd után való viháncolása idegesítő."
+    },
+    {
+        "Sent_id": "test_82",
+        "Sent": "A felügyelő nem jutott döntésre az új bizonyítéknak köszönhetően."
+    },
+    {
+        "Sent_id": "test_83",
+        "Sent": "Magyarország 44 év után kijutott az Európa-bajnokságra."
+    },
+    {
+        "Sent_id": "test_84",
+        "Sent": "Csak Pétert érdekli a nyelvészet, mégis pont őiránta nem lelkesedik a tanár."
+    },
+    {
+        "Sent_id": "test_85",
+        "Sent": "Az ő könyvükre érkezett a legtöbb szavazat."
+    },
+    {
+        "Sent_id": "test_86",
+        "Sent": "Annak az elősegítését, hogy a kormány megbukjon, támogatjuk."
+    },
+    {
+        "Sent_id": "test_87",
+        "Sent": "Pál még óra múlva is kint sétált."
+    },
+    {
+        "Sent_id": "test_88",
+        "Sent": "Az iránt a lányé iránt?"
+    },
+    {
+        "Sent_id": "test_89",
+        "Sent": "Sanyi aludt egy hétig."
+    },
+    {
+        "Sent_id": "test_90",
+        "Sent": "A gáz a kémcsőben büdösre keletkezett."
+    },
+    {
+        "Sent_id": "test_91",
+        "Sent": "A baba gazdag családba született."
+    },
+    {
+        "Sent_id": "test_92",
+        "Sent": "A szándéka Péternek változott meg tegnap."
+    },
+    {
+        "Sent_id": "test_93",
+        "Sent": "A felügyelő gyakran jutott döntésre."
+    },
+    {
+        "Sent_id": "test_94",
+        "Sent": "Ezen azt értem, hogy viselkedj tisztességesen."
+    },
+    {
+        "Sent_id": "test_95",
+        "Sent": "Hogy Andor ismeri Arankát, nem zavar."
+    },
+    {
+        "Sent_id": "test_96",
+        "Sent": "Ők írnak egy könvyet."
+    },
+    {
+        "Sent_id": "test_97",
+        "Sent": "Tegnap megérkezett a csomagod."
+    },
+    {
+        "Sent_id": "test_98",
+        "Sent": "Azért valószínűek a fénymásolók, hogy el fognak tűnni, mert van már modernebb eszközünk."
+    },
+    {
+        "Sent_id": "test_99",
+        "Sent": "Imre kinek nem adta át az üzenetet?"
+    },
+    {
+        "Sent_id": "test_100",
+        "Sent": "Én írom a könyvet."
+    },
+    {
+        "Sent_id": "test_101",
+        "Sent": "Hoztunk fel bort."
+    },
+    {
+        "Sent_id": "test_102",
+        "Sent": "Két szoba híján tele volt a szálloda."
+    },
+    {
+        "Sent_id": "test_103",
+        "Sent": "Az, aki meg tudja javítani a gépet, nincs közöttünk."
+    },
+    {
+        "Sent_id": "test_104",
+        "Sent": "Csak Péter fölött járt el az idő, mégis csak látjuk naponta futni."
+    },
+    {
+        "Sent_id": "test_105",
+        "Sent": "Anya főzi az ebédet."
+    },
+    {
+        "Sent_id": "test_106",
+        "Sent": "Jánost okosnak tartják."
+    },
+    {
+        "Sent_id": "test_107",
+        "Sent": "Azék a fiadék iránt?"
+    },
+    {
+        "Sent_id": "test_108",
+        "Sent": "Azzal foglalkozik, hogy rajzszögeket rak a székekre."
+    },
+    {
+        "Sent_id": "test_109",
+        "Sent": "Fájt a megverés bottal."
+    },
+    {
+        "Sent_id": "test_110",
+        "Sent": "Két gyerek született."
+    },
+    {
+        "Sent_id": "test_111",
+        "Sent": "A törülközőt végül nem János, hanem Péter dobta be."
+    },
+    {
+        "Sent_id": "test_112",
+        "Sent": "Péter felforralva hozta vissza a tejet."
+    },
+    {
+        "Sent_id": "test_113",
+        "Sent": "Két kilométerrel a városok között van a falu."
+    },
+    {
+        "Sent_id": "test_114",
+        "Sent": "Péter Pécsre ment dolgozni."
+    },
+    {
+        "Sent_id": "test_115",
+        "Sent": "Minden énekkar alakult."
+    },
+    {
+        "Sent_id": "test_116",
+        "Sent": "Mari hízott."
+    },
+    {
+        "Sent_id": "test_117",
+        "Sent": "A disznótoroktól volt hangos a december."
+    },
+    {
+        "Sent_id": "test_118",
+        "Sent": "Meglepett a heves érdeklődése annak az új diáknak a főnevek iránt."
+    },
+    {
+        "Sent_id": "test_119",
+        "Sent": "Feri magától ijedt meg."
+    },
+    {
+        "Sent_id": "test_120",
+        "Sent": "1900-tól vagy 2000-től fogva van ez érvényben."
+    },
+    {
+        "Sent_id": "test_121",
+        "Sent": "A fal mögül jött."
+    },
+    {
+        "Sent_id": "test_122",
+        "Sent": "A kalapács múltkori ablakbetörése még élénken él bennem."
+    },
+    {
+        "Sent_id": "test_123",
+        "Sent": "Virágok díszítették a táblát az iskolában."
+    },
+    {
+        "Sent_id": "test_124",
+        "Sent": "A hajad vállig ér."
+    },
+    {
+        "Sent_id": "test_125",
+        "Sent": "Péter ok nélkül valól megütközése meglepett."
+    },
+    {
+        "Sent_id": "test_126",
+        "Sent": "Péter megszárította a nadrágot."
+    },
+    {
+        "Sent_id": "test_127",
+        "Sent": "A felügyelő őszintén szólva minden kérdésben döntésre jutott."
+    },
+    {
+        "Sent_id": "test_128",
+        "Sent": "Péter a tévéhíradót nézte, meg János meg az Esti Magazint hallgatta."
+    },
+    {
+        "Sent_id": "test_129",
+        "Sent": "Pécsett és Budapesten megbeszélést tartottak a küldöttek."
+    },
+    {
+        "Sent_id": "test_130",
+        "Sent": "Félix leveleket gépelt a nappaliban."
+    },
+    {
+        "Sent_id": "test_131",
+        "Sent": "Ki ette meg a magokat?"
+    },
+    {
+        "Sent_id": "test_132",
+        "Sent": "Javában megírta a leckéjét."
+    },
+    {
+        "Sent_id": "test_133",
+        "Sent": "Erzsi Imrétől a születésnapjára nyakláncot kapott, de Mari nem."
+    },
+    {
+        "Sent_id": "test_134",
+        "Sent": "Dr. Kovács azt az embert műtötte meg, akit megkéseltek."
+    },
+    {
+        "Sent_id": "test_135",
+        "Sent": "Amikor megérkeztünk, Pisti már elolvasta az újságot."
+    },
+    {
+        "Sent_id": "test_136",
+        "Sent": "Meg Erzsivel ismerkedett Imre."
+    },
+    {
+        "Sent_id": "test_137",
+        "Sent": "Imre nem ismerkedett meg Erzsivel."
+    },
+    {
+        "Sent_id": "test_138",
+        "Sent": "Péter hallgass rám!"
+    },
+    {
+        "Sent_id": "test_139",
+        "Sent": "Ezen jó magaviseletet értek."
+    },
+    {
+        "Sent_id": "test_140",
+        "Sent": "Imre alig figyel ide."
+    },
+    {
+        "Sent_id": "test_141",
+        "Sent": "Péter Pestre érkezése meglepett."
+    },
+    {
+        "Sent_id": "test_142",
+        "Sent": "Na például Ilinek azokat a babáit, amiket tőlem kapott, amikkel amúgy már évek óta nem játszik, azokat igazán odaadhatnánk Lilinek."
+    },
+    {
+        "Sent_id": "test_143",
+        "Sent": "Arra biztattak, hogy sportoljak."
+    },
+    {
+        "Sent_id": "test_144",
+        "Sent": "Péternek távol való volta sok gondot okoz."
+    },
+    {
+        "Sent_id": "test_145",
+        "Sent": "Péter kalap elveszett."
+    },
+    {
+        "Sent_id": "test_146",
+        "Sent": "Meglepett az elmúlt hetek kritikusan való megfogalmazása."
+    },
+    {
+        "Sent_id": "test_147",
+        "Sent": "A lábánál megfogva kihúzta a vízből."
+    },
+    {
+        "Sent_id": "test_148",
+        "Sent": "Melyik ajándékot ki kapta?"
+    },
+    {
+        "Sent_id": "test_149",
+        "Sent": "János pirosra festette be a kerítést."
+    },
+    {
+        "Sent_id": "test_150",
+        "Sent": "Az elefánt Afrikában négylábú állat."
+    },
+    {
+        "Sent_id": "test_151",
+        "Sent": "Kati hangosan köszönt Péternek."
+    },
+    {
+        "Sent_id": "test_152",
+        "Sent": "Megfeledkeztem arról, hogy elmenjek."
+    },
+    {
+        "Sent_id": "test_153",
+        "Sent": "Majdnem minden fiú eljött."
+    },
+    {
+        "Sent_id": "test_154",
+        "Sent": "János elolvassa a könyvet."
+    },
+    {
+        "Sent_id": "test_155",
+        "Sent": "Pál helyében én nem tenném."
+    },
+    {
+        "Sent_id": "test_156",
+        "Sent": "Azt én beletettem az ő táskájába."
+    },
+    {
+        "Sent_id": "test_157",
+        "Sent": "Péter tart Máriától."
+    },
+    {
+        "Sent_id": "test_158",
+        "Sent": "Azt a tanácsot Minna adta, hogy utazzunk el."
+    },
+    {
+        "Sent_id": "test_159",
+        "Sent": "A fiam, menj el!"
+    },
+    {
+        "Sent_id": "test_160",
+        "Sent": "Félix szándékosan gépelte le a levelet."
+    },
+    {
+        "Sent_id": "test_161",
+        "Sent": "Ez a szöveg érthető."
+    },
+    {
+        "Sent_id": "test_162",
+        "Sent": "Feltétlenül Olívia két kérdésben egyetért a szakáccsal."
+    },
+    {
+        "Sent_id": "test_163",
+        "Sent": "Ilinek azokon játékain veszekednek."
+    },
+    {
+        "Sent_id": "test_164",
+        "Sent": "János meggyógyult, s ez még az orvosát is meglepte."
+    },
+    {
+        "Sent_id": "test_165",
+        "Sent": "Kár a vonat lekésése."
+    },
+    {
+        "Sent_id": "test_166",
+        "Sent": "János tegnap elküldte a különlenyomatot Andrásnak, vagy Péter Marinak."
+    },
+    {
+        "Sent_id": "test_167",
+        "Sent": "Rögtön Félix legépelte a levelet."
+    },
+    {
+        "Sent_id": "test_168",
+        "Sent": "Örömmel tölt el Péternek a múlttal való megbékélése."
+    },
+    {
+        "Sent_id": "test_169",
+        "Sent": "A Zsolnay-szobornál megcsókoltam Ilit."
+    },
+    {
+        "Sent_id": "test_170",
+        "Sent": "Jancsi nehezen mászott fel a fára."
+    },
+    {
+        "Sent_id": "test_171",
+        "Sent": "János odatelefonált Andrásnak, és Erzsi odatelefonált Andrásnak."
+    },
+    {
+        "Sent_id": "test_172",
+        "Sent": "Mit hogyan magyaráztatok meg?"
+    },
+    {
+        "Sent_id": "test_173",
+        "Sent": "Az a kijelentés, az elnök megbetegedett, elhamarkodott volt."
+    },
+    {
+        "Sent_id": "test_174",
+        "Sent": "Kevesen néznek meg minden új magyar filmet."
+    },
+    {
+        "Sent_id": "test_175",
+        "Sent": "A tanárként nagyra becsült Mari gyakran magányos."
+    },
+    {
+        "Sent_id": "test_176",
+        "Sent": "Pált a lábánál erősen fogva kilógatják az ablakon."
+    },
+    {
+        "Sent_id": "test_177",
+        "Sent": "A logikának ezt nem fogadja el embere."
+    },
+    {
+        "Sent_id": "test_178",
+        "Sent": "Ő a beteg fiú."
+    },
+    {
+        "Sent_id": "test_179",
+        "Sent": "A boszorkány békákká változtatta a hercegeket."
+    },
+    {
+        "Sent_id": "test_180",
+        "Sent": "Imre egész délután hordta fel a könyveket."
+    },
+    {
+        "Sent_id": "test_181",
+        "Sent": "Biztos vagy benne?"
+    },
+    {
+        "Sent_id": "test_182",
+        "Sent": "A vihar ijesztővé vált."
+    },
+    {
+        "Sent_id": "test_183",
+        "Sent": "A könyv ez a fiúé."
+    },
+    {
+        "Sent_id": "test_184",
+        "Sent": "Tetszik nekem ez a te megbízható barátod."
+    },
+    {
+        "Sent_id": "test_185",
+        "Sent": "Géza megpróbálta kinyitni az ajtót, bár a szerencsétlen otthon felejtette a kulcsát."
+    },
+    {
+        "Sent_id": "test_186",
+        "Sent": "János ezt szeretné, ha elmondanál."
+    },
+    {
+        "Sent_id": "test_187",
+        "Sent": "A neked szóló valamennyi levél fontos."
+    },
+    {
+        "Sent_id": "test_188",
+        "Sent": "A felügyelő szerencsére döntésre jutott."
+    },
+    {
+        "Sent_id": "test_189",
+        "Sent": "Péter imádja Marit, de nem bízik benne."
+    },
+    {
+        "Sent_id": "test_190",
+        "Sent": "Péter elolvasott."
+    },
+    {
+        "Sent_id": "test_191",
+        "Sent": "Csak meglátogatna minket!"
+    },
+    {
+        "Sent_id": "test_192",
+        "Sent": "Intett neki, hogy szólni akar."
+    },
+    {
+        "Sent_id": "test_193",
+        "Sent": "A hallgató minden kérdésre biztosan felelt."
+    },
+    {
+        "Sent_id": "test_194",
+        "Sent": "A felügyelő majdnem jutott döntésre."
+    },
+    {
+        "Sent_id": "test_195",
+        "Sent": "Péter tegnap délutáni felszólalása felháborított."
+    },
+    {
+        "Sent_id": "test_196",
+        "Sent": "Péter nagyon szeret úszni."
+    },
+    {
+        "Sent_id": "test_197",
+        "Sent": "A kisfiú egy bottal tologatta az építőkockát."
+    },
+    {
+        "Sent_id": "test_198",
+        "Sent": "Csak a Raid riasztja el ezeket a szúnyogokat, végül mégis éppen abban csalódtunk."
+    },
+    {
+        "Sent_id": "test_199",
+        "Sent": "Ő Péter fia."
+    },
+    {
+        "Sent_id": "test_200",
+        "Sent": "Imre válaszolta meg a kérdést rosszul."
+    },
+    {
+        "Sent_id": "test_201",
+        "Sent": "Az éjjel két vödör víz szivárgott a falból."
+    },
+    {
+        "Sent_id": "test_202",
+        "Sent": "Várható, hogy a csapadék eloszlása egyenetlenebb lesz."
+    },
+    {
+        "Sent_id": "test_203",
+        "Sent": "A hűtő jó állapotban van."
+    },
+    {
+        "Sent_id": "test_204",
+        "Sent": "Lehet, hogy győztem, de nem vagyok biztos abban."
+    },
+    {
+        "Sent_id": "test_205",
+        "Sent": "Péter Évával való összeveszése fájdalmas volt."
+    },
+    {
+        "Sent_id": "test_206",
+        "Sent": "6 óra felé készül el."
+    },
+    {
+        "Sent_id": "test_207",
+        "Sent": "A meglepetéstől elejtettem a reszelt sajtot."
+    },
+    {
+        "Sent_id": "test_208",
+        "Sent": "Mari nagyon bír egy házbeli srácot, de pont az a legfurább alak a környéken."
+    },
+    {
+        "Sent_id": "test_209",
+        "Sent": "Csak őt bánom, hogy megsértettelek."
+    },
+    {
+        "Sent_id": "test_210",
+        "Sent": "Az orvos lefogyasztotta Marit."
+    },
+    {
+        "Sent_id": "test_211",
+        "Sent": "Péter ijedtében hazament."
+    },
+    {
+        "Sent_id": "test_212",
+        "Sent": "A nagyon Ferivel barátságos lány neve Anna."
+    },
+    {
+        "Sent_id": "test_213",
+        "Sent": "János és Mari becsomagolta a ruhaneműt, majd megcímkézte a csomagot."
+    },
+    {
+        "Sent_id": "test_214",
+        "Sent": "Péter szilánkokban törte össze a vázát."
+    },
+    {
+        "Sent_id": "test_215",
+        "Sent": "Már későre jár, menjünk haza!"
+    },
+    {
+        "Sent_id": "test_216",
+        "Sent": "Emma vágja a haját."
+    },
+    {
+        "Sent_id": "test_217",
+        "Sent": "János a sarokig fut."
+    },
+    {
+        "Sent_id": "test_218",
+        "Sent": "Nem Erzsit Imre ismeri."
+    },
+    {
+        "Sent_id": "test_219",
+        "Sent": "Az öt közül semelyik fiú sem jöhet."
+    },
+    {
+        "Sent_id": "test_220",
+        "Sent": "Ez kedves volt tőled."
+    },
+    {
+        "Sent_id": "test_221",
+        "Sent": "Imre félig meggyógyult."
+    },
+    {
+        "Sent_id": "test_222",
+        "Sent": "Csak egy diáknak tetszik a mondattan, de pénteken mégis hiába vártunk rá."
+    },
+    {
+        "Sent_id": "test_223",
+        "Sent": "Közötted és Péter között állok."
+    },
+    {
+        "Sent_id": "test_224",
+        "Sent": "Jó ötlet volt az udvariasan bánás a vendégekkel."
+    },
+    {
+        "Sent_id": "test_225",
+        "Sent": "Lehet, hogy győzöl, de azt sose tudhatod előre."
+    },
+    {
+        "Sent_id": "test_226",
+        "Sent": "A kicsik nem érdekelnek."
+    },
+    {
+        "Sent_id": "test_227",
+        "Sent": "A fák égig érnek."
+    },
+    {
+        "Sent_id": "test_228",
+        "Sent": "Péter gazembernek nevezése butaság volt."
+    },
+    {
+        "Sent_id": "test_229",
+        "Sent": "Óriási siker lett a Béláról szóló könyv."
+    },
+    {
+        "Sent_id": "test_230",
+        "Sent": "Azt az embert ők kórházba vitték, akit a fiúk megkéseltek."
+    },
+    {
+        "Sent_id": "test_231",
+        "Sent": "János a kalauznak adott borravalót, holott a hordárnak."
+    },
+    {
+        "Sent_id": "test_232",
+        "Sent": "Úgy gondolta, hogy megnyerte a versenyt."
+    },
+    {
+        "Sent_id": "test_233",
+        "Sent": "A nép a téren gyülekezik."
+    },
+    {
+        "Sent_id": "test_234",
+        "Sent": "Az okozta a problémát a fűtéssel, hogy elromlott a kazánunk."
+    },
+    {
+        "Sent_id": "test_235",
+        "Sent": "Piroska az újságkihordótól, Vali pedig a házmestertől értesült a legújabb hírekről."
+    },
+    {
+        "Sent_id": "test_236",
+        "Sent": "Azt ajánlom, hogy vizsgáljuk meg az ügyet alaposan."
+    },
+    {
+        "Sent_id": "test_237",
+        "Sent": "Péter fejreállítva hozta be a vázát."
+    },
+    {
+        "Sent_id": "test_238",
+        "Sent": "János okosra tanult tanítani."
+    },
+    {
+        "Sent_id": "test_239",
+        "Sent": "Vizesen havazott."
+    },
+    {
+        "Sent_id": "test_240",
+        "Sent": "Gyula megkereste, amit elvesztett."
+    },
+    {
+        "Sent_id": "test_241",
+        "Sent": "Péter újságot olvas."
+    },
+    {
+        "Sent_id": "test_242",
+        "Sent": "Az Angliáról szóló könyv tetszik."
+    },
+    {
+        "Sent_id": "test_243",
+        "Sent": "A házunk ezen túl a két patakon túl van, és azokon keresztül az erdőkön keresztül érhető el."
+    },
+    {
+        "Sent_id": "test_244",
+        "Sent": "Én ótam vár."
+    },
+    {
+        "Sent_id": "test_245",
+        "Sent": "Megjött-e Jakab?"
+    },
+    {
+        "Sent_id": "test_246",
+        "Sent": "János aludt, majd sétálni ment."
+    },
+    {
+        "Sent_id": "test_247",
+        "Sent": "A zsebemben van János pénze."
+    },
+    {
+        "Sent_id": "test_248",
+        "Sent": "Péternek a keddi időponthoz való ragaszkodása nevetséges."
+    },
+    {
+        "Sent_id": "test_249",
+        "Sent": "Mindennap érkezett Pécsre holland szintakta."
+    },
+    {
+        "Sent_id": "test_250",
+        "Sent": "Azéból a lányéból?"
+    },
+    {
+        "Sent_id": "test_251",
+        "Sent": "A biztosítási díj a kockázat mértékével arányos."
+    },
+    {
+        "Sent_id": "test_252",
+        "Sent": "Te és Péter közötted állok."
+    },
+    {
+        "Sent_id": "test_253",
+        "Sent": "Örülök telefonálninak."
+    },
+    {
+        "Sent_id": "test_254",
+        "Sent": "Péter bejárta a várost."
+    },
+    {
+        "Sent_id": "test_255",
+        "Sent": "Csak Péteréknek tetszik a mondattan, de pénteken mégis hiába vártunk rájuk."
+    },
+    {
+        "Sent_id": "test_256",
+        "Sent": "Tamás három nap múlva érkezik."
+    },
+    {
+        "Sent_id": "test_257",
+        "Sent": "Szeretlek."
+    },
+    {
+        "Sent_id": "test_258",
+        "Sent": "Elolvasom az ő érdekes cikkét."
+    },
+    {
+        "Sent_id": "test_259",
+        "Sent": "Találkoztam egy fiúval, aki miután elvégezte az egyetemet, taxizni ment, hogy annyit keressen, amennyiből megveheti azt a szintetizátort, amire már évek óta fáj a foga."
+    },
+    {
+        "Sent_id": "test_260",
+        "Sent": "Fel János vitte a biciklit, le Péter."
+    },
+    {
+        "Sent_id": "test_261",
+        "Sent": "János fontos iratot hagyott a páncélszekrényben."
+    },
+    {
+        "Sent_id": "test_262",
+        "Sent": "Péter betegre nevette magát."
+    },
+    {
+        "Sent_id": "test_263",
+        "Sent": "Egy könyvet nem találok a lakásban."
+    },
+    {
+        "Sent_id": "test_264",
+        "Sent": "János egy konyhakést fent meg borotválkozni."
+    },
+    {
+        "Sent_id": "test_265",
+        "Sent": "Ama Pinket felemelő három táncos mind férfi."
+    },
+    {
+        "Sent_id": "test_266",
+        "Sent": "A felügyelő minden kérdésben újra döntésre jutott."
+    },
+    {
+        "Sent_id": "test_267",
+        "Sent": "Nem gondoltam azt, hogy megnyerem a versenyt."
+    },
+    {
+        "Sent_id": "test_268",
+        "Sent": "János megiratta a levelet Marival."
+    },
+    {
+        "Sent_id": "test_269",
+        "Sent": "Ezen te barátod kedves."
+    },
+    {
+        "Sent_id": "test_270",
+        "Sent": "Ez volt a jobbik második futam."
+    },
+    {
+        "Sent_id": "test_271",
+        "Sent": "Minden három fiú megérkezett."
+    },
+    {
+        "Sent_id": "test_272",
+        "Sent": "Péter tanárnak tanul."
+    },
+    {
+        "Sent_id": "test_273",
+        "Sent": "Veszekednek eme játékokon."
+    },
+    {
+        "Sent_id": "test_274",
+        "Sent": "Ez egy nagyon jó könyv."
+    },
+    {
+        "Sent_id": "test_275",
+        "Sent": "Nagyon tartok attól, hogy megsértettelek."
+    },
+    {
+        "Sent_id": "test_276",
+        "Sent": "A belső sáv üres."
+    },
+    {
+        "Sent_id": "test_277",
+        "Sent": "Állj fel!"
+    },
+    {
+        "Sent_id": "test_278",
+        "Sent": "A kapitány szerint Félix legépelte a levelet."
+    },
+    {
+        "Sent_id": "test_279",
+        "Sent": "Felemésztett az iránta való gyűlölet."
+    },
+    {
+        "Sent_id": "test_280",
+        "Sent": "A boszorkány a földkerekségnek a legcsúnyább békájává változtatta a herceget."
+    },
+    {
+        "Sent_id": "test_281",
+        "Sent": "Rendszerint a nyomozó elkapta a gyilkost."
+    },
+    {
+        "Sent_id": "test_282",
+        "Sent": "Szerintem pont az okozza majd a vesztét, hogy egy ilyen ügybe keveredik."
+    },
+    {
+        "Sent_id": "test_283",
+        "Sent": "Elhangzott az újabb három szonett."
+    },
+    {
+        "Sent_id": "test_284",
+        "Sent": "Amióta Lili vezet, egészen megváltozott."
+    },
+    {
+        "Sent_id": "test_285",
+        "Sent": "Félix átadta a meghívót a vendégeknek."
+    },
+    {
+        "Sent_id": "test_286",
+        "Sent": "Csodálkoztam rajta is, hogy eljöttél."
+    },
+    {
+        "Sent_id": "test_287",
+        "Sent": "Elolvastam a Péter által megírt jelentést."
+    },
+    {
+        "Sent_id": "test_288",
+        "Sent": "Éppen benn, csak kevesen akartak maradni."
+    },
+    {
+        "Sent_id": "test_289",
+        "Sent": "Ilinek felkopott az álla."
+    },
+    {
+        "Sent_id": "test_290",
+        "Sent": "Imre lett beteg."
+    },
+    {
+        "Sent_id": "test_291",
+        "Sent": "Éppen az autót festette pirosra, amikor elkapták."
+    },
+    {
+        "Sent_id": "test_292",
+        "Sent": "Jövő héttől átvehető."
+    },
+    {
+        "Sent_id": "test_293",
+        "Sent": "Amikor megérkeztünk, Pisti már dolgozott."
+    },
+    {
+        "Sent_id": "test_294",
+        "Sent": "Olívia a sikeres nyomozás érdekében felhívta a felügyelőt."
+    },
+    {
+        "Sent_id": "test_295",
+        "Sent": "András sötétebbre festette az eget, mint az Endre fényképén mutatkozik."
+    },
+    {
+        "Sent_id": "test_296",
+        "Sent": "Az énekesben keservesen csalódtam."
+    },
+    {
+        "Sent_id": "test_297",
+        "Sent": "A te kalapod barna."
+    },
+    {
+        "Sent_id": "test_298",
+        "Sent": "A felelősség kérdése még nem merült fel."
+    },
+    {
+        "Sent_id": "test_299",
+        "Sent": "Már virrad."
+    },
+    {
+        "Sent_id": "test_300",
+        "Sent": "1900-tól megkezdve vezették be."
+    },
+    {
+        "Sent_id": "test_301",
+        "Sent": "Egy lány megállította a fiút."
+    },
+    {
+        "Sent_id": "test_302",
+        "Sent": "Ki-be Ili ugrált az ablakon."
+    },
+    {
+        "Sent_id": "test_303",
+        "Sent": "Ő írja a könyvet."
+    },
+    {
+        "Sent_id": "test_304",
+        "Sent": "János látta Marit hazamenni."
+    },
+    {
+        "Sent_id": "test_305",
+        "Sent": "Csak egy diákot érdekel a mondattan, de az sajnos nem ér rá pénteken."
+    },
+    {
+        "Sent_id": "test_306",
+        "Sent": "Én és Sára hasonlóak vagyunk."
+    },
+    {
+        "Sent_id": "test_307",
+        "Sent": "Péter nagyon odavan a szomszéd lányért, de a barátja ki nem állhatja azt."
+    },
+    {
+        "Sent_id": "test_308",
+        "Sent": "Ennél pontosan fogva nem engedlek el többet."
+    },
+    {
+        "Sent_id": "test_309",
+        "Sent": "Ott ül egy méterrel a ház mögött."
+    },
+    {
+        "Sent_id": "test_310",
+        "Sent": "Lehet, hogy győztem, de a bíró még nem mondta."
+    },
+    {
+        "Sent_id": "test_311",
+        "Sent": "Az utcán végig áll a sor."
+    },
+    {
+        "Sent_id": "test_312",
+        "Sent": "Felemésztett a Péter iránti gyűlölet."
+    },
+    {
+        "Sent_id": "test_313",
+        "Sent": "Ittam a két üveg sört egész nap."
+    },
+    {
+        "Sent_id": "test_314",
+        "Sent": "Arra gondolt, hogy jó lenne már lepihenni."
+    },
+    {
+        "Sent_id": "test_315",
+        "Sent": "Leült és megvacsorázott."
+    },
+    {
+        "Sent_id": "test_316",
+        "Sent": "Jó idő van, tehát ingujjban járnak az emberek."
+    },
+    {
+        "Sent_id": "test_317",
+        "Sent": "Elég éjszaka ugatni."
+    },
+    {
+        "Sent_id": "test_318",
+        "Sent": "Éva alattad maradt."
+    },
+    {
+        "Sent_id": "test_319",
+        "Sent": "Viktor ránézett Valira, de az nem emelte fel a fejét."
+    },
+    {
+        "Sent_id": "test_320",
+        "Sent": "Hihetetlen az!"
+    },
+    {
+        "Sent_id": "test_321",
+        "Sent": "A kapitány tegnap teljesítette a feladatot."
+    },
+    {
+        "Sent_id": "test_322",
+        "Sent": "Éntőlem kezdve az egész családon végigment a vírus."
+    },
+    {
+        "Sent_id": "test_323",
+        "Sent": "Egyenesen az erdőn át mentünk."
+    },
+    {
+        "Sent_id": "test_324",
+        "Sent": "Tegnap megláttam a békává változtatott herceget."
+    },
+    {
+        "Sent_id": "test_325",
+        "Sent": "A nyuszikról szóló mese aranyos."
+    },
+    {
+        "Sent_id": "test_326",
+        "Sent": "A parlament ebéd után szavaz."
+    },
+    {
+        "Sent_id": "test_327",
+        "Sent": "Az én kalapjaim kékek."
+    },
+    {
+        "Sent_id": "test_328",
+        "Sent": "Két méterrel a ház mögött van a fészer."
+    },
+    {
+        "Sent_id": "test_329",
+        "Sent": "A ruha színe kék."
+    },
+    {
+        "Sent_id": "test_330",
+        "Sent": "1900-tól majdnem kezdve alkalmazzák a módszert."
+    },
+    {
+        "Sent_id": "test_331",
+        "Sent": "A fiúk kártyáznak a lányokkal."
+    },
+    {
+        "Sent_id": "test_332",
+        "Sent": "János most ért az erdőbe."
+    },
+    {
+        "Sent_id": "test_333",
+        "Sent": "A megbeszélést elhalasztották."
+    },
+    {
+        "Sent_id": "test_334",
+        "Sent": "Péter mellett állt János."
+    },
+    {
+        "Sent_id": "test_335",
+        "Sent": "Finom lett a tegnap készült ebéd."
+    },
+    {
+        "Sent_id": "test_336",
+        "Sent": "A holnap elutazó ügynökök megkapták az utasításokat."
+    },
+    {
+        "Sent_id": "test_337",
+        "Sent": "Jártam a Pécs utcáin."
+    },
+    {
+        "Sent_id": "test_338",
+        "Sent": "Mari bírja Pétert, de ő nem bírja őt."
+    },
+    {
+        "Sent_id": "test_339",
+        "Sent": "Péter nagyon érdeklődik a nyelvészet iránt, de annak sajnos nem tudtunk üzenni az előadásról."
+    },
+    {
+        "Sent_id": "test_340",
+        "Sent": "Kik érkeztek meg?"
+    },
+    {
+        "Sent_id": "test_341",
+        "Sent": "A szék nagyobbnak látszik, mint amilyenre az asztalos megfaragta."
+    },
+    {
+        "Sent_id": "test_342",
+        "Sent": "Pontosan a ház fölé céloztam."
+    },
+    {
+        "Sent_id": "test_343",
+        "Sent": "Fúj a szél, ha esik az eső."
+    },
+    {
+        "Sent_id": "test_344",
+        "Sent": "Az ő nyomukon indultunk az erdőbe."
+    },
+    {
+        "Sent_id": "test_345",
+        "Sent": "A kalapács betörte az ablakot az öcsémmel."
+    },
+    {
+        "Sent_id": "test_346",
+        "Sent": "Még szép, hogy eljöttetek."
+    },
+    {
+        "Sent_id": "test_347",
+        "Sent": "A tömeg a téren gyülekezik."
+    },
+    {
+        "Sent_id": "test_348",
+        "Sent": "Ő óta várok valakire."
+    },
+    {
+        "Sent_id": "test_349",
+        "Sent": "A nehéz gazdasági helyzet miatt gyenge a kormány."
+    },
+    {
+        "Sent_id": "test_350",
+        "Sent": "Azt se sokan tudták, hogy Aranka férjhez ment."
+    },
+    {
+        "Sent_id": "test_351",
+        "Sent": "Tartok tőle is, hogy megsértettelek."
+    },
+    {
+        "Sent_id": "test_352",
+        "Sent": "Olívia félig három iratot megvizsgált."
+    },
+    {
+        "Sent_id": "test_353",
+        "Sent": "A palánk mellől passz döntötte el a meccset."
+    },
+    {
+        "Sent_id": "test_354",
+        "Sent": "Péter vendége nincs."
+    },
+    {
+        "Sent_id": "test_355",
+        "Sent": "Sok vendég érkezett."
+    },
+    {
+        "Sent_id": "test_356",
+        "Sent": "A farkas szőröstül-bőröstül megette a nyulat."
+    },
+    {
+        "Sent_id": "test_357",
+        "Sent": "Csak a Raid riasztja el ezeket a szúnyogokat, de pont attól lettünk rosszul."
+    },
+    {
+        "Sent_id": "test_358",
+        "Sent": "Érkezett számomra egy csomag."
+    },
+    {
+        "Sent_id": "test_359",
+        "Sent": "Az ajtó becsapódott Zolitól."
+    },
+    {
+        "Sent_id": "test_360",
+        "Sent": "Csak Péternek tetszik a mondattan, de a pénteki előadásra mégis hiába vártuk őt."
+    },
+    {
+        "Sent_id": "test_361",
+        "Sent": "Magyarországon sok macska van."
+    },
+    {
+        "Sent_id": "test_362",
+        "Sent": "Péternek Szegeden lakik a menyasszony."
+    },
+    {
+        "Sent_id": "test_363",
+        "Sent": "Piroska az újságkihordótól tudta meg a legfontosabb híreket, holott Vali a házmestertől."
+    },
+    {
+        "Sent_id": "test_364",
+        "Sent": "Az asztal alá is benéztem."
+    },
+    {
+        "Sent_id": "test_365",
+        "Sent": "János egyfolytában szidott téged."
+    },
+    {
+        "Sent_id": "test_366",
+        "Sent": "Vettem neked egy autót."
+    },
+    {
+        "Sent_id": "test_367",
+        "Sent": "A tanár a jutalmat kapó diákkal beszélgetett."
+    },
+    {
+        "Sent_id": "test_368",
+        "Sent": "Ili mint zálogot adta az ékszert."
+    },
+    {
+        "Sent_id": "test_369",
+        "Sent": "A lefolyócsövet tönkretette a lúggal való mosás."
+    },
+    {
+        "Sent_id": "test_370",
+        "Sent": "A ti réveteken keltünk át a folyón."
+    },
+    {
+        "Sent_id": "test_371",
+        "Sent": "Péternek belement a víz a szemébe."
+    },
+    {
+        "Sent_id": "test_372",
+        "Sent": "Pisti mindig megírta a leckéjét."
+    },
+    {
+        "Sent_id": "test_373",
+        "Sent": "Többször megmozdult."
+    },
+    {
+        "Sent_id": "test_374",
+        "Sent": "A kapitány lelkesen teljesítette a feladatot."
+    },
+    {
+        "Sent_id": "test_375",
+        "Sent": "Péter köti az ebet a karóhoz."
+    },
+    {
+        "Sent_id": "test_376",
+        "Sent": "Anna pirosra, tehát rikító színűre festette az asztalt."
+    },
+    {
+        "Sent_id": "test_377",
+        "Sent": "Péter pechünkre hasraesett."
+    },
+    {
+        "Sent_id": "test_378",
+        "Sent": "Van három kalap."
+    },
+    {
+        "Sent_id": "test_379",
+        "Sent": "Pálnak révén ismerkedtünk meg."
+    },
+    {
+        "Sent_id": "test_380",
+        "Sent": "A fiaim tanárok."
+    },
+    {
+        "Sent_id": "test_381",
+        "Sent": "A felügyelő újra jutott döntésre."
+    },
+    {
+        "Sent_id": "test_382",
+        "Sent": "Ismét az a helyzet, hogy Félix legépelte a levelet."
+    },
+    {
+        "Sent_id": "test_383",
+        "Sent": "Emil tanácsa az volt, hogy távozzunk."
+    },
+    {
+        "Sent_id": "test_384",
+        "Sent": "Péter távolléte sok gondot okoz."
+    },
+    {
+        "Sent_id": "test_385",
+        "Sent": "A kerítésen teljesen belül maradtunk."
+    },
+    {
+        "Sent_id": "test_386",
+        "Sent": "Találtam egy gyűrűt."
+    },
+    {
+        "Sent_id": "test_387",
+        "Sent": "Ez a könyvön kívül nincs más."
+    },
+    {
+        "Sent_id": "test_388",
+        "Sent": "Egy szúrő gyanánt szolgáló ruha is kell."
+    },
+    {
+        "Sent_id": "test_389",
+        "Sent": "Kati aggódik a pókok miatt."
+    },
+    {
+        "Sent_id": "test_390",
+        "Sent": "János tolla leesett."
+    },
+    {
+        "Sent_id": "test_391",
+        "Sent": "Tegnap a gyerekek miatt szidtam meg sajátmagukat."
+    },
+    {
+        "Sent_id": "test_392",
+        "Sent": "Összevesztek az Ili azon játékain, amiket tőlem kapott."
+    },
+    {
+        "Sent_id": "test_393",
+        "Sent": "Békává változik a királyfi."
+    },
+    {
+        "Sent_id": "test_394",
+        "Sent": "De hát az ki van zárva!"
+    },
+    {
+        "Sent_id": "test_395",
+        "Sent": "A Péter fia ír."
+    },
+    {
+        "Sent_id": "test_396",
+        "Sent": "Hangosan ugat a kutya."
+    },
+    {
+        "Sent_id": "test_397",
+        "Sent": "Ebben a könyvben szerepelnek lovak."
+    },
+    {
+        "Sent_id": "test_398",
+        "Sent": "Kedves kisebbik fiam!"
+    },
+    {
+        "Sent_id": "test_399",
+        "Sent": "A felügyelő általában döntésre jutott."
+    },
+    {
+        "Sent_id": "test_400",
+        "Sent": "Pál az asztal felé tette a széket."
+    },
+    {
+        "Sent_id": "test_401",
+        "Sent": "Az iskola külön asztalt foglalt a tanároknak."
+    },
+    {
+        "Sent_id": "test_402",
+        "Sent": "Ili estig dolgozott."
+    },
+    {
+        "Sent_id": "test_403",
+        "Sent": "Hihetetlen ez!"
+    },
+    {
+        "Sent_id": "test_404",
+        "Sent": "Éjféli mise lesz."
+    },
+    {
+        "Sent_id": "test_405",
+        "Sent": "Ili átment kedvesből ijesztőbe."
+    },
+    {
+        "Sent_id": "test_406",
+        "Sent": "Ott lakik a híddal szemben."
+    },
+    {
+        "Sent_id": "test_407",
+        "Sent": "Az engem is bánt, hogy megsértettelek."
+    },
+    {
+        "Sent_id": "test_408",
+        "Sent": "Péter és Pál már megint verekszik."
+    },
+    {
+        "Sent_id": "test_409",
+        "Sent": "Erősödik a gyerek."
+    },
+    {
+        "Sent_id": "test_410",
+        "Sent": "Az új piros írógépével Félix legépelte a levelet."
+    },
+    {
+        "Sent_id": "test_411",
+        "Sent": "Megettem két tányér levest."
+    },
+    {
+        "Sent_id": "test_412",
+        "Sent": "Nem hiszem, hogy Jenőt láttad."
+    },
+    {
+        "Sent_id": "test_413",
+        "Sent": "A szél feldöntötte a vázát."
+    },
+    {
+        "Sent_id": "test_414",
+        "Sent": "Ott áll a kerttől három méterre."
+    },
+    {
+        "Sent_id": "test_415",
+        "Sent": "Péter nagyon odavan Mariért, de a barátja nem rajong érte."
+    },
+    {
+        "Sent_id": "test_416",
+        "Sent": "Azékhoz a fiadékhoz?"
+    },
+    {
+        "Sent_id": "test_417",
+        "Sent": "Péter szépnek látta Évát."
+    },
+    {
+        "Sent_id": "test_418",
+        "Sent": "Péter egész délután hógolyózott."
+    },
+    {
+        "Sent_id": "test_419",
+        "Sent": "A 15. század felé keletkezett."
+    },
+    {
+        "Sent_id": "test_420",
+        "Sent": "A minden fiú könyve elveszett."
+    },
+    {
+        "Sent_id": "test_421",
+        "Sent": "Azért tartom a fénymásolókat fontosaknak, hogy eltűnjenek, mert bármikor felrobbanhatnak."
+    },
+    {
+        "Sent_id": "test_422",
+        "Sent": "Pontosan benn, csak kevesen akartak maradni."
+    },
+    {
+        "Sent_id": "test_423",
+        "Sent": "A kisfiú Marit látogatta meg itt a kórházban."
+    },
+    {
+        "Sent_id": "test_424",
+        "Sent": "Bár sokat ígértek érte, nem adtam el az ékszert."
+    },
+    {
+        "Sent_id": "test_425",
+        "Sent": "Marinak tetszik Péter, de őneki nem tetszik a lány."
+    },
+    {
+        "Sent_id": "test_426",
+        "Sent": "Péter tegnap elvitte a lámpát nehezéknek."
+    },
+    {
+        "Sent_id": "test_427",
+        "Sent": "A kukába a régi újságokkal!"
+    },
+    {
+        "Sent_id": "test_428",
+        "Sent": "Félix láthatóan legépelte a levelet."
+    },
+    {
+        "Sent_id": "test_429",
+        "Sent": "Péternek az előadás alatt való rohangálása idegesítő."
+    },
+    {
+        "Sent_id": "test_430",
+        "Sent": "Eszter küzd a rendszer ellen."
+    },
+    {
+        "Sent_id": "test_431",
+        "Sent": "János most ért ide."
+    },
+    {
+        "Sent_id": "test_432",
+        "Sent": "A Pál számára küldött levelek eltűntek."
+    },
+    {
+        "Sent_id": "test_433",
+        "Sent": "Mászott fel a fára és figyelte a naplementét."
+    },
+    {
+        "Sent_id": "test_434",
+        "Sent": "Ez a könyv Jánosé."
+    },
+    {
+        "Sent_id": "test_435",
+        "Sent": "Kati és Éva küzdenek."
+    },
+    {
+        "Sent_id": "test_436",
+        "Sent": "A barátja vérzett el."
+    },
+    {
+        "Sent_id": "test_437",
+        "Sent": "Petra gyűlöl valakit."
+    },
+    {
+        "Sent_id": "test_438",
+        "Sent": "A kisfiút is látogatja Mari."
+    },
+    {
+        "Sent_id": "test_439",
+        "Sent": "Katinak az ízléséről és Annáéról ne vitatkozzunk."
+    },
+    {
+        "Sent_id": "test_440",
+        "Sent": "A hőmérséklet visszaesett tíz fokra."
+    },
+    {
+        "Sent_id": "test_441",
+        "Sent": "A bottal való megverés fájdalmas."
+    },
+    {
+        "Sent_id": "test_442",
+        "Sent": "Laci kenyeret evett paprikával."
+    },
+    {
+        "Sent_id": "test_443",
+        "Sent": "Kinek mögött sétálsz?"
+    },
+    {
+        "Sent_id": "test_444",
+        "Sent": "Nem értékes az, bár sokat ígértek az ékszerért."
+    },
+    {
+        "Sent_id": "test_445",
+        "Sent": "János hátratolatta Péterrel a szekrényt."
+    },
+    {
+        "Sent_id": "test_446",
+        "Sent": "Ili laposra kalapálta a vasat."
+    },
+    {
+        "Sent_id": "test_447",
+        "Sent": "Ekkor megpillantottam a fiút."
+    },
+    {
+        "Sent_id": "test_448",
+        "Sent": "Ott van egy nyársat nyelt ember."
+    },
+    {
+        "Sent_id": "test_449",
+        "Sent": "Jánossal orvos van a csapatban egészségügyi dolgozó."
+    },
+    {
+        "Sent_id": "test_450",
+        "Sent": "Épp 12-től van a megbeszélés."
+    },
+    {
+        "Sent_id": "test_451",
+        "Sent": "Mari széttépte a levelet."
+    },
+    {
+        "Sent_id": "test_452",
+        "Sent": "Péter felemelte az egeret."
+    },
+    {
+        "Sent_id": "test_453",
+        "Sent": "Péter betegre táncolta magát."
+    },
+    {
+        "Sent_id": "test_454",
+        "Sent": "Marit, bízom benne, hogy azt nem tudják becsapni."
+    },
+    {
+        "Sent_id": "test_455",
+        "Sent": "Kati darabokra darabokra tört játékát."
+    },
+    {
+        "Sent_id": "test_456",
+        "Sent": "Levelet írt."
+    },
+    {
+        "Sent_id": "test_457",
+        "Sent": "Péter nagyon érdeklődik a nyelvészet iránt, de neki sajnos nem tudtunk üzenni az előadásról."
+    },
+    {
+        "Sent_id": "test_458",
+        "Sent": "Péter újságot olvas a kertben."
+    },
+    {
+        "Sent_id": "test_459",
+        "Sent": "Péternek a szándéka változott meg tegnap."
+    },
+    {
+        "Sent_id": "test_460",
+        "Sent": "Andrea nem gondolta úgy, hogy megnyerem a versenyt."
+    },
+    {
+        "Sent_id": "test_461",
+        "Sent": "Tegnap találkoztam a magyar Edisonnal."
+    },
+    {
+        "Sent_id": "test_462",
+        "Sent": "Egy három alma van az asztalon."
+    },
+    {
+        "Sent_id": "test_463",
+        "Sent": "Péter rongyosra olvasva hozta vissza a könyvet."
+    },
+    {
+        "Sent_id": "test_464",
+        "Sent": "Az ebéd után tartott szónoklat hosszú volt."
+    },
+    {
+        "Sent_id": "test_465",
+        "Sent": "Körülnézett, hogy van-e ülőhely."
+    },
+    {
+        "Sent_id": "test_466",
+        "Sent": "Balázs ötlete volt egy futár Pécsre való elküldése."
+    },
+    {
+        "Sent_id": "test_467",
+        "Sent": "A feladatot kétféleképp lehet értelmezni."
+    },
+    {
+        "Sent_id": "test_468",
+        "Sent": "Szépen süt a nap."
+    },
+    {
+        "Sent_id": "test_469",
+        "Sent": "Béla féltékenykedik a feleségére."
+    },
+    {
+        "Sent_id": "test_470",
+        "Sent": "Mi írunk egy könyvet."
+    },
+    {
+        "Sent_id": "test_471",
+        "Sent": "Az utcán végig áll a sor."
+    },
+    {
+        "Sent_id": "test_472",
+        "Sent": "Ez egy jó nap."
+    },
+    {
+        "Sent_id": "test_473",
+        "Sent": "Rá felkészült, hogy kikap a meccsen."
+    },
+    {
+        "Sent_id": "test_474",
+        "Sent": "Imre moziba ment."
+    },
+    {
+        "Sent_id": "test_475",
+        "Sent": "A bolt tönkrement."
+    },
+    {
+        "Sent_id": "test_476",
+        "Sent": "Havonként járok úszni."
+    },
+    {
+        "Sent_id": "test_477",
+        "Sent": "János egyenesen kivitte az üres üvegeket a kukába."
+    },
+    {
+        "Sent_id": "test_478",
+        "Sent": "Júliusban Jugoszláviában jártunk."
+    },
+    {
+        "Sent_id": "test_479",
+        "Sent": "János lát mellette egy macskát."
+    },
+    {
+        "Sent_id": "test_480",
+        "Sent": "Nem tagadta azt János, hogy a nyelvészet unalmas."
+    },
+    {
+        "Sent_id": "test_481",
+        "Sent": "Pál orvosnál van."
+    },
+    {
+        "Sent_id": "test_482",
+        "Sent": "Amikor lefújták a meccset, a labda gurult be a kapuba."
+    },
+    {
+        "Sent_id": "test_483",
+        "Sent": "Győző készül úszni."
+    },
+    {
+        "Sent_id": "test_484",
+        "Sent": "János megbefolyásolta Marit."
+    },
+    {
+        "Sent_id": "test_485",
+        "Sent": "Jobban látok az új szemüveggel."
+    },
+    {
+        "Sent_id": "test_486",
+        "Sent": "Péter imádja Marit, de az nem bízik benne."
+    },
+    {
+        "Sent_id": "test_487",
+        "Sent": "Számíthattok arra, hogy segíteni fogok."
+    },
+    {
+        "Sent_id": "test_488",
+        "Sent": "A szobrász karcsúra készítette a szobrot."
+    },
+    {
+        "Sent_id": "test_489",
+        "Sent": "Érkezett Pécsre öt holland szintakta."
+    },
+    {
+        "Sent_id": "test_490",
+        "Sent": "Ili laposra kalapálja a vasat."
+    },
+    {
+        "Sent_id": "test_491",
+        "Sent": "Péter semelyik könyve sem izgalmas."
+    },
+    {
+        "Sent_id": "test_492",
+        "Sent": "Ha fel is tételezzük, hogy így van, akkor sem megoldott az adózás kérdése."
+    },
+    {
+        "Sent_id": "test_493",
+        "Sent": "Húsvét táján rügyeznek a fák."
+    },
+    {
+        "Sent_id": "test_494",
+        "Sent": "Péter nem idegeskedett, pedig Mari elkésett."
+    },
+    {
+        "Sent_id": "test_495",
+        "Sent": "Péternek ma ment nyugdíjba a szomszéd."
+    },
+    {
+        "Sent_id": "test_496",
+        "Sent": "Körülbelül április 1-jén találkoztunk."
+    },
+    {
+        "Sent_id": "test_497",
+        "Sent": "A házból vagy -tól indulunk?"
+    },
+    {
+        "Sent_id": "test_498",
+        "Sent": "Fontos idejében elindulnod az iskolába."
+    },
+    {
+        "Sent_id": "test_499",
+        "Sent": "Péter ebéd után megbékélt."
+    },
+    {
+        "Sent_id": "test_500",
+        "Sent": "Ili Pál után baktat."
+    },
+    {
+        "Sent_id": "test_501",
+        "Sent": "Az előadó sok kérdést elhárított."
+    },
+    {
+        "Sent_id": "test_502",
+        "Sent": "Iskolái elvégzése után Péter dolgozni ment."
+    },
+    {
+        "Sent_id": "test_503",
+        "Sent": "Kint van kép a kirakatban."
+    },
+    {
+        "Sent_id": "test_504",
+        "Sent": "Nagyjából oda lerakhatod."
+    },
+    {
+        "Sent_id": "test_505",
+        "Sent": "Péter tegnap az iskolában öt perc alatt megírta a leckéjét."
+    },
+    {
+        "Sent_id": "test_506",
+        "Sent": "Az újságot való olvasás már nem divat."
+    },
+    {
+        "Sent_id": "test_507",
+        "Sent": "Jól esett a kávé elfogyasztása barna cukorral."
+    },
+    {
+        "Sent_id": "test_508",
+        "Sent": "Fájt a székbe történt belebotlás."
+    },
+    {
+        "Sent_id": "test_509",
+        "Sent": "Alíz kézen fogta Adélt."
+    },
+    {
+        "Sent_id": "test_510",
+        "Sent": "Ez a vaj jól kenhető."
+    },
+    {
+        "Sent_id": "test_511",
+        "Sent": "Közvetlenül itt található."
+    },
+    {
+        "Sent_id": "test_512",
+        "Sent": "Ezek a könyvek nem adhatók gyerekeknek."
+    },
+    {
+        "Sent_id": "test_513",
+        "Sent": "Pisti szedi össze ott a holmiját, nem pedig Jancsi."
+    },
+    {
+        "Sent_id": "test_514",
+        "Sent": "János fél a hazamenéstől."
+    },
+    {
+        "Sent_id": "test_515",
+        "Sent": "Tamás ötlete volt a futárküldés Pécsre."
+    },
+    {
+        "Sent_id": "test_516",
+        "Sent": "Én ezt meg kell, hogy magyarázzam?"
+    },
+    {
+        "Sent_id": "test_517",
+        "Sent": "Anna hajat vág."
+    },
+    {
+        "Sent_id": "test_518",
+        "Sent": "Éva nem látszik boldognak."
+    },
+    {
+        "Sent_id": "test_519",
+        "Sent": "Az eső ellenére elmegyünk."
+    },
+    {
+        "Sent_id": "test_520",
+        "Sent": "János bement a boltba, és János megvett egy könyvet."
+    },
+    {
+        "Sent_id": "test_521",
+        "Sent": "Péter Szegedre való megérkezése örömmel töltött el."
+    },
+    {
+        "Sent_id": "test_522",
+        "Sent": "Ott legyeskedik János körülött."
+    },
+    {
+        "Sent_id": "test_523",
+        "Sent": "Artúr nagyon három erkélyen meglocsolta a virágokat."
+    },
+    {
+        "Sent_id": "test_524",
+        "Sent": "A filmet megnézve megismerjük a várost."
+    },
+    {
+        "Sent_id": "test_525",
+        "Sent": "Egész délután írt egy levelet."
+    },
+    {
+        "Sent_id": "test_526",
+        "Sent": "Kati a darabokra törte a játékait."
+    },
+    {
+        "Sent_id": "test_527",
+        "Sent": "Tetszik az a könyv, amelyik új módon tárgyalja a szabadságharcot."
+    },
+    {
+        "Sent_id": "test_528",
+        "Sent": "Sári - és ezt senki sem tudja róla - imádja a képviselőfánkot."
+    },
+    {
+        "Sent_id": "test_529",
+        "Sent": "Az autó a biciklihez közel ment."
+    },
+    {
+        "Sent_id": "test_530",
+        "Sent": "Azt ajánlom, vizsgáljuk meg az ügyet alaposan."
+    },
+    {
+        "Sent_id": "test_531",
+        "Sent": "Melyiket ki választotta?"
+    },
+    {
+        "Sent_id": "test_532",
+        "Sent": "Az lehetetlen!"
+    },
+    {
+        "Sent_id": "test_533",
+        "Sent": "A könyvet Imre tette a polcra."
+    },
+    {
+        "Sent_id": "test_534",
+        "Sent": "Egy fiúnak az egy könyve elveszett."
+    },
+    {
+        "Sent_id": "test_535",
+        "Sent": "Meglepett Péter váratlan, Máriába való belebotlása."
+    },
+    {
+        "Sent_id": "test_536",
+        "Sent": "Imrét büntette meg a rendőr gyorshajtásért."
+    },
+    {
+        "Sent_id": "test_537",
+        "Sent": "Meglepett Péter megérkezése."
+    },
+    {
+        "Sent_id": "test_538",
+        "Sent": "Attól tart, hogy nem ismerik fel."
+    },
+    {
+        "Sent_id": "test_539",
+        "Sent": "A föld a nyár folyamán kiszáradt a naptól."
+    },
+    {
+        "Sent_id": "test_540",
+        "Sent": "Andor azt mondta a gyűlésen, hogy változtatni kell."
+    },
+    {
+        "Sent_id": "test_541",
+        "Sent": "A Pinket felemelő eme öt táncos mindegyike nő."
+    },
+    {
+        "Sent_id": "test_542",
+        "Sent": "Számomra ez kellemetlen volt."
+    },
+    {
+        "Sent_id": "test_543",
+        "Sent": "János tudta, hogy Péter nem bízik meg benne."
+    },
+    {
+        "Sent_id": "test_544",
+        "Sent": "A középkorból származik ez a szokás."
+    },
+    {
+        "Sent_id": "test_545",
+        "Sent": "Az állásra két diák jelentkezett."
+    },
+    {
+        "Sent_id": "test_546",
+        "Sent": "Peti félelmében világnak megy."
+    },
+    {
+        "Sent_id": "test_547",
+        "Sent": "Pontosan 2 hét alatt végeztem."
+    },
+    {
+        "Sent_id": "test_548",
+        "Sent": "Ezek a lányok szépek."
+    },
+    {
+        "Sent_id": "test_549",
+        "Sent": "A diákok tanulnak."
+    },
+    {
+        "Sent_id": "test_550",
+        "Sent": "A következtetés tautologikus."
+    },
+    {
+        "Sent_id": "test_551",
+        "Sent": "Marit agyondicsérte a főnöke."
+    },
+    {
+        "Sent_id": "test_552",
+        "Sent": "Péter nagyon érdeklődik a nyelvészet iránt, de sajnos nem hívhattuk azt meg az előadásra."
+    },
+    {
+        "Sent_id": "test_553",
+        "Sent": "Kíváncsi vagyok, Jakab mikor jön meg vajon."
+    },
+    {
+        "Sent_id": "test_554",
+        "Sent": "Noémi emeli a kezét."
+    },
+    {
+        "Sent_id": "test_555",
+        "Sent": "Évát nem tartják lelkiismeretesnek."
+    },
+    {
+        "Sent_id": "test_556",
+        "Sent": "Elolvasom egy Anna érdekes cikkét."
+    },
+    {
+        "Sent_id": "test_557",
+        "Sent": "Ilinek eme játékai elvesztek."
+    },
+    {
+        "Sent_id": "test_558",
+        "Sent": "A tegnapi Pécsről Pestre utazás tovább tartott, mint a keddi Pestről Pécsre utazás."
+    },
+    {
+        "Sent_id": "test_559",
+        "Sent": "Veszekednek ezen játékokon."
+    },
+    {
+        "Sent_id": "test_560",
+        "Sent": "Láttad a gyűrűd?"
+    },
+    {
+        "Sent_id": "test_561",
+        "Sent": "Tulipánt ültettek az gyanánt, hogy bosszantsák a szomszédot."
+    },
+    {
+        "Sent_id": "test_562",
+        "Sent": "Meg a gyerekek várták a nagymamát az előadás után."
+    },
+    {
+        "Sent_id": "test_563",
+        "Sent": "Mari mindenkinek újra egy könyvet vett."
+    },
+    {
+        "Sent_id": "test_564",
+        "Sent": "János alávetette magát az akaratomnak."
+    },
+    {
+        "Sent_id": "test_565",
+        "Sent": "Melyik cikket fogadták el?"
+    },
+    {
+        "Sent_id": "test_566",
+        "Sent": "Ezek a gyerekek hisznek a Mikulásban."
+    },
+    {
+        "Sent_id": "test_567",
+        "Sent": "Kit akarsz, hogy János megverjen?"
+    },
+    {
+        "Sent_id": "test_568",
+        "Sent": "Megfőzök és azután elmegyek."
+    },
+    {
+        "Sent_id": "test_569",
+        "Sent": "6 óra hosszáig várakoztunk."
+    },
+    {
+        "Sent_id": "test_570",
+        "Sent": "Pál a kislánya kezét fogva sétál."
+    },
+    {
+        "Sent_id": "test_571",
+        "Sent": "A minden titkom érdekes."
+    },
+    {
+        "Sent_id": "test_572",
+        "Sent": "A könyvet Marinak küldte el János."
+    },
+    {
+        "Sent_id": "test_573",
+        "Sent": "Péter ebéd után megbékélt a múlttal."
+    },
+    {
+        "Sent_id": "test_574",
+        "Sent": "A kertnél lévő ház a legszebb."
+    },
+    {
+        "Sent_id": "test_575",
+        "Sent": "Róla beszélgettetek?"
+    },
+    {
+        "Sent_id": "test_576",
+        "Sent": "Egy új diák nagyon érdeklődik a nyelvészet iránt, de pont az nem ér rá pénteken."
+    },
+    {
+        "Sent_id": "test_577",
+        "Sent": "A fiam tanár volt."
+    },
+    {
+        "Sent_id": "test_578",
+        "Sent": "Ajándékot adott a vendégnek."
+    },
+    {
+        "Sent_id": "test_579",
+        "Sent": "Ili szerencsére otthon volt."
+    },
+    {
+        "Sent_id": "test_580",
+        "Sent": "Nézte a tévét és kézimunkázott."
+    },
+    {
+        "Sent_id": "test_581",
+        "Sent": "A lányokat meglepte János róluk való véleménye."
+    },
+    {
+        "Sent_id": "test_582",
+        "Sent": "A báb lepkévé változott."
+    },
+    {
+        "Sent_id": "test_583",
+        "Sent": "Pál a fal iránt futott."
+    },
+    {
+        "Sent_id": "test_584",
+        "Sent": "A kéthetes karibi útra meghívtak egy új kollégát, de sajnos csak a karrierját hajtja."
+    },
+    {
+        "Sent_id": "test_585",
+        "Sent": "Az írás a vonalon felül levő a jó."
+    },
+    {
+        "Sent_id": "test_586",
+        "Sent": "Tévét nézek."
+    },
+    {
+        "Sent_id": "test_587",
+        "Sent": "Imrét zavarja a zaj."
+    },
+    {
+        "Sent_id": "test_588",
+        "Sent": "Ez nem érdekel, hogy mikor gyógyulok meg."
+    },
+    {
+        "Sent_id": "test_589",
+        "Sent": "Nagyon nehéz a Péter által közben nehezen cipelt csomag."
+    },
+    {
+        "Sent_id": "test_590",
+        "Sent": "Pisti egész nap írt."
+    },
+    {
+        "Sent_id": "test_591",
+        "Sent": "Rajtam keresztül éred el őt."
+    },
+    {
+        "Sent_id": "test_592",
+        "Sent": "A vonalon két méterrel alul kell aláírni."
+    },
+    {
+        "Sent_id": "test_593",
+        "Sent": "Dél tájt érkeztünk."
+    },
+    {
+        "Sent_id": "test_594",
+        "Sent": "János kalapja barna."
+    },
+    {
+        "Sent_id": "test_595",
+        "Sent": "Csak az bánt, hogy megsértettelek."
+    },
+    {
+        "Sent_id": "test_596",
+        "Sent": "Pisti gyakran volt beteg."
+    },
+    {
+        "Sent_id": "test_597",
+        "Sent": "Fárasztó volt a Pestre érkezés."
+    },
+    {
+        "Sent_id": "test_598",
+        "Sent": "6 óra 10 perc tájt érkeztünk."
+    },
+    {
+        "Sent_id": "test_599",
+        "Sent": "Péter megütközése meglepett."
+    },
+    {
+        "Sent_id": "test_600",
+        "Sent": "3 hét múlva érkezik."
+    },
+    {
+        "Sent_id": "test_601",
+        "Sent": "Péter átadott 10 dollárt János számára."
+    },
+    {
+        "Sent_id": "test_602",
+        "Sent": "Mari megint mindenkinek egy könyvet vett."
+    },
+    {
+        "Sent_id": "test_603",
+        "Sent": "Peti az asztal alatt és ki rohant."
+    },
+    {
+        "Sent_id": "test_604",
+        "Sent": "Az öcsém a táncolástól jókedvű lett."
+    },
+    {
+        "Sent_id": "test_605",
+        "Sent": "Mari is a nagymamája mellett játszik."
+    },
+    {
+        "Sent_id": "test_606",
+        "Sent": "Péternek az ebéd utáni felszólalása nagy sikert aratott."
+    },
+    {
+        "Sent_id": "test_607",
+        "Sent": "Láttam egy képet Máriáról."
+    },
+    {
+        "Sent_id": "test_608",
+        "Sent": "Mari megadta a pénzét Péternek."
+    },
+    {
+        "Sent_id": "test_609",
+        "Sent": "Mari rosszul érezte magát."
+    },
+    {
+        "Sent_id": "test_610",
+        "Sent": "Együtt mennek moziba."
+    },
+    {
+        "Sent_id": "test_611",
+        "Sent": "Láttam már a Madeirát."
+    },
+    {
+        "Sent_id": "test_612",
+        "Sent": "Én bírom Pétert, de az nem bír engem."
+    },
+    {
+        "Sent_id": "test_613",
+        "Sent": "János egy vendéglőbe vitte el Marit, Péter meg egy színházba fogja."
+    },
+    {
+        "Sent_id": "test_614",
+        "Sent": "Olyan butaságok, hogy összetörte a kocsiját, már nem is idegesítik."
+    },
+    {
+        "Sent_id": "test_615",
+        "Sent": "Érdeklődtek aziránt, hogy hol jártál."
+    },
+    {
+        "Sent_id": "test_616",
+        "Sent": "Péter nagyon érdeklődik a nyelvészet iránt, de pont ő nem ér rá pénteken."
+    },
+    {
+        "Sent_id": "test_617",
+        "Sent": "Péter valamelyik könyve izgalmas."
+    },
+    {
+        "Sent_id": "test_618",
+        "Sent": "Zolit tegnap Annával láttam."
+    },
+    {
+        "Sent_id": "test_619",
+        "Sent": "A levest teljesen hidegen hozták ki."
+    },
+    {
+        "Sent_id": "test_620",
+        "Sent": "Két egér futott a szobában."
+    },
+    {
+        "Sent_id": "test_621",
+        "Sent": "A fiúk kártyáznak."
+    },
+    {
+        "Sent_id": "test_622",
+        "Sent": "Súlyos bűncselekmény az őr hidegre való tétele."
+    },
+    {
+        "Sent_id": "test_623",
+        "Sent": "János koszosan hozta vissza a villanykörtét."
+    },
+    {
+        "Sent_id": "test_624",
+        "Sent": "János mindig kedves mindenkihez."
+    },
+    {
+        "Sent_id": "test_625",
+        "Sent": "Péter eszik."
+    },
+    {
+        "Sent_id": "test_626",
+        "Sent": "Kati szépen úszik."
+    },
+    {
+        "Sent_id": "test_627",
+        "Sent": "Katit megijesztik a pókok."
+    },
+    {
+        "Sent_id": "test_628",
+        "Sent": "A madár a folyón túlról érkezett."
+    },
+    {
+        "Sent_id": "test_629",
+        "Sent": "Péternek a csoporthoz történő csatlakozása folyamatban van."
+    },
+    {
+        "Sent_id": "test_630",
+        "Sent": "Hol szedte össze a holmiját, amikor rátaláltatok?"
+    },
+    {
+        "Sent_id": "test_631",
+        "Sent": "Minél fogva jelenthetjük ezt ki?"
+    },
+    {
+        "Sent_id": "test_632",
+        "Sent": "A Péter én kalapom elveszett."
+    },
+    {
+        "Sent_id": "test_633",
+        "Sent": "Péter Mária elleni felszólalása felháborított."
+    },
+    {
+        "Sent_id": "test_634",
+        "Sent": "Nem tudja, hogy horkol."
+    },
+    {
+        "Sent_id": "test_635",
+        "Sent": "Ili kutyával ment sétálni."
+    },
+    {
+        "Sent_id": "test_636",
+        "Sent": "Azt olvasták fel az ünnepélyen."
+    },
+    {
+        "Sent_id": "test_637",
+        "Sent": "Ili kiolvasta a könyvet."
+    },
+    {
+        "Sent_id": "test_638",
+        "Sent": "Megvesszük azt a házat."
+    },
+    {
+        "Sent_id": "test_639",
+        "Sent": "Péter autót szerelt egész délután."
+    },
+    {
+        "Sent_id": "test_640",
+        "Sent": "Mari az ágy mellett tette a széket."
+    },
+    {
+        "Sent_id": "test_641",
+        "Sent": "Elolvasok minden érdekes cikket."
+    },
+    {
+        "Sent_id": "test_642",
+        "Sent": "Van a pénz."
+    },
+    {
+        "Sent_id": "test_643",
+        "Sent": "A következtetés vászonfedelű lesz."
+    },
+    {
+        "Sent_id": "test_644",
+        "Sent": "Ili gyorsan futott."
+    },
+    {
+        "Sent_id": "test_645",
+        "Sent": "Az én helyemben te mit csinálnál?"
+    },
+    {
+        "Sent_id": "test_646",
+        "Sent": "A könyvet a gyerekeknek adó férfi beszédet is mondott."
+    },
+    {
+        "Sent_id": "test_647",
+        "Sent": "János most ért a fa mellé."
+    },
+    {
+        "Sent_id": "test_648",
+        "Sent": "Az Évának írt levél olvashatatlan volt."
+    },
+    {
+        "Sent_id": "test_649",
+        "Sent": "Erzsivel megismerkedett Imre."
+    },
+    {
+        "Sent_id": "test_650",
+        "Sent": "Ili zölden szedte le az almát."
+    },
+    {
+        "Sent_id": "test_651",
+        "Sent": "Kati küzd Éva ellen."
+    },
+    {
+        "Sent_id": "test_652",
+        "Sent": "Félix nem gépelte le ismét a leveleket."
+    },
+    {
+        "Sent_id": "test_653",
+        "Sent": "Andris rárakott egy almát a tányérjára."
+    },
+    {
+        "Sent_id": "test_654",
+        "Sent": "Erzsit Imre ismeri."
+    },
+    {
+        "Sent_id": "test_655",
+        "Sent": "A kerítésen belül teljesen maradtunk."
+    },
+    {
+        "Sent_id": "test_656",
+        "Sent": "Biztosak vagyunk benne, hogy akár győzünk, akár nem, ráfizetünk a versenyre."
+    },
+    {
+        "Sent_id": "test_657",
+        "Sent": "A férfi a gyerekeknek adhatta a könyvet."
+    },
+    {
+        "Sent_id": "test_658",
+        "Sent": "Ili egész májusban tanult."
+    },
+    {
+        "Sent_id": "test_659",
+        "Sent": "Közvetítő útján találtam állást."
+    },
+    {
+        "Sent_id": "test_660",
+        "Sent": "Bence kifogott egy nyakláncot."
+    },
+    {
+        "Sent_id": "test_661",
+        "Sent": "Jan derék egy holland ember!"
+    },
+    {
+        "Sent_id": "test_662",
+        "Sent": "Feri újraírta a levelet."
+    },
+    {
+        "Sent_id": "test_663",
+        "Sent": "Kati verekedik Péterrel."
+    },
+    {
+        "Sent_id": "test_664",
+        "Sent": "A fal mögöttről jött."
+    },
+    {
+        "Sent_id": "test_665",
+        "Sent": "Tegnap sajnos volt egy légy a levesemben."
+    },
+    {
+        "Sent_id": "test_666",
+        "Sent": "Anna korán felébredt, de még visszaaludt."
+    },
+    {
+        "Sent_id": "test_667",
+        "Sent": "A fénymásolóknak az kell, hogy eltűnjenek."
+    },
+    {
+        "Sent_id": "test_668",
+        "Sent": "A baba született."
+    },
+    {
+        "Sent_id": "test_669",
+        "Sent": "Jó ötlet az asztalra helyezés szó nélkül."
+    },
+    {
+        "Sent_id": "test_670",
+        "Sent": "Mindez Péterhez vall."
+    },
+    {
+        "Sent_id": "test_671",
+        "Sent": "Táncoltunk egyet."
+    },
+    {
+        "Sent_id": "test_672",
+        "Sent": "Péter a kamrában tartja a húst."
+    },
+    {
+        "Sent_id": "test_673",
+        "Sent": "Napóleon óta várunk."
+    },
+    {
+        "Sent_id": "test_674",
+        "Sent": "Az ajtót újra a szomszéd nyitotta ki."
+    },
+    {
+        "Sent_id": "test_675",
+        "Sent": "Palinak az kell, hogy elmenjen."
+    },
+    {
+        "Sent_id": "test_676",
+        "Sent": "Egy kisfiú meglátogatta Marit."
+    },
+    {
+        "Sent_id": "test_677",
+        "Sent": "Láttad a gyűrűt?"
+    },
+    {
+        "Sent_id": "test_678",
+        "Sent": "Péter dolgozni ment."
+    },
+    {
+        "Sent_id": "test_679",
+        "Sent": "Erzsivel Imre ismerkedett meg."
+    },
+    {
+        "Sent_id": "test_680",
+        "Sent": "Amikor mászott fel a fára, megérkezett a barátja."
+    },
+    {
+        "Sent_id": "test_681",
+        "Sent": "A Péter által elmulasztott lehetőség hiba volt."
+    },
+    {
+        "Sent_id": "test_682",
+        "Sent": "Váratlanul értek a kérdés fölmerülései."
+    },
+    {
+        "Sent_id": "test_683",
+        "Sent": "Most kellene megkenni a kenyeret lekvárral."
+    },
+    {
+        "Sent_id": "test_684",
+        "Sent": "Holnap lesz Kati első meetingje."
+    },
+    {
+        "Sent_id": "test_685",
+        "Sent": "Péterrel örömében fizettettem egy rund sört."
+    },
+    {
+        "Sent_id": "test_686",
+        "Sent": "Kivel késett el János, mivel hogy találkozott?"
+    },
+    {
+        "Sent_id": "test_687",
+        "Sent": "János ügyesen kezeli a vésőt."
+    },
+    {
+        "Sent_id": "test_688",
+        "Sent": "Ili máig dolgozik."
+    },
+    {
+        "Sent_id": "test_689",
+        "Sent": "Csak a nyerő játékosnak van tekintélye."
+    },
+    {
+        "Sent_id": "test_690",
+        "Sent": "Mari pont 6 órakor ért haza."
+    },
+    {
+        "Sent_id": "test_691",
+        "Sent": "Ili reggelente eszik egy almát."
+    },
+    {
+        "Sent_id": "test_692",
+        "Sent": "Nem ritka az ok nélkül való megütközés."
+    },
+    {
+        "Sent_id": "test_693",
+        "Sent": "A könyv tavaly jelent meg a könyvhétre."
+    },
+    {
+        "Sent_id": "test_694",
+        "Sent": "János megbízhatóbb, mint Mari."
+    },
+    {
+        "Sent_id": "test_695",
+        "Sent": "Ez a környezet nem igazán barátságos hozzájuk."
+    },
+    {
+        "Sent_id": "test_696",
+        "Sent": "Imre meg nem ismerkedett Erzsivel."
+    },
+    {
+        "Sent_id": "test_697",
+        "Sent": "Péter fát vitt be a kamrába."
+    },
+    {
+        "Sent_id": "test_698",
+        "Sent": "Tegnap Pécsett és tegnapelőtt Budapeten megbeszélést tartottak a küldöttek."
+    },
+    {
+        "Sent_id": "test_699",
+        "Sent": "Jártam a Pécsen."
+    },
+    {
+        "Sent_id": "test_700",
+        "Sent": "Sok van a házon és a háznál is."
+    },
+    {
+        "Sent_id": "test_701",
+        "Sent": "Éppen az iskola elé hozták a táskámat."
+    },
+    {
+        "Sent_id": "test_702",
+        "Sent": "A fa fölé dobtam."
+    },
+    {
+        "Sent_id": "test_703",
+        "Sent": "6 órának a táján találkoztunk."
+    },
+    {
+        "Sent_id": "test_704",
+        "Sent": "Aztán beadd a pályázatot határidőre!"
+    },
+    {
+        "Sent_id": "test_705",
+        "Sent": "Garfield csak Orsont látogatta meg."
+    },
+    {
+        "Sent_id": "test_706",
+        "Sent": "Újra Félix legépelte a levelet."
+    },
+    {
+        "Sent_id": "test_707",
+        "Sent": "Péter beteg volt."
+    },
+    {
+        "Sent_id": "test_708",
+        "Sent": "Imre ismerkedett Erzsivel meg."
+    },
+    {
+        "Sent_id": "test_709",
+        "Sent": "Péter állandó mosása rettenetesen idegesít."
+    },
+    {
+        "Sent_id": "test_710",
+        "Sent": "János naponként úszni jár."
+    },
+    {
+        "Sent_id": "test_711",
+        "Sent": "Kati levelet írt Évával."
+    },
+    {
+        "Sent_id": "test_712",
+        "Sent": "Vettem egy kabátot a neki."
+    },
+    {
+        "Sent_id": "test_713",
+        "Sent": "Ott egy kuka két méterre a háztól."
+    },
+    {
+        "Sent_id": "test_714",
+        "Sent": "Lent azt értem, hogy a pincében."
+    },
+    {
+        "Sent_id": "test_715",
+        "Sent": "A háznál három katona áll."
+    },
+    {
+        "Sent_id": "test_716",
+        "Sent": "Jól esne a cukorral kávé."
+    },
+    {
+        "Sent_id": "test_717",
+        "Sent": "Félix a fejfájása ellenére legépelte a levelet."
+    },
+    {
+        "Sent_id": "test_718",
+        "Sent": "Ili lentről nézi a TV-t."
+    },
+    {
+        "Sent_id": "test_719",
+        "Sent": "Felettébb érdeklődtek őiránta is, hogy hol jártál."
+    },
+    {
+        "Sent_id": "test_720",
+        "Sent": "Túl drágán adják ezt a házat."
+    },
+    {
+        "Sent_id": "test_721",
+        "Sent": "Péter az apjától tanulta a bicskával való faragást."
+    },
+    {
+        "Sent_id": "test_722",
+        "Sent": "A legkopottabb holmikat kidobtuk."
+    },
+    {
+        "Sent_id": "test_723",
+        "Sent": "Marit érdekli Péter, de őt nem érdekli a lány."
+    },
+    {
+        "Sent_id": "test_724",
+        "Sent": "János elolvasott egy könyvet, Péter meg egy újságot."
+    },
+    {
+        "Sent_id": "test_725",
+        "Sent": "A fokhagyma jó a hangszalagok számára."
+    },
+    {
+        "Sent_id": "test_726",
+        "Sent": "Énekkarok alakultak."
+    },
+    {
+        "Sent_id": "test_727",
+        "Sent": "Kattant egyet a villanykapcsoló."
+    },
+    {
+        "Sent_id": "test_728",
+        "Sent": "Az énekesben csalódtam keservesen."
+    },
+    {
+        "Sent_id": "test_729",
+        "Sent": "Szeretném megcsókolni Marit."
+    },
+    {
+        "Sent_id": "test_730",
+        "Sent": "Csak látogatna meg minket!"
+    },
+    {
+        "Sent_id": "test_731",
+        "Sent": "Péternek nagyon tetszik az új szintaxis-könyv, de őróla senki sem beszélt."
+    },
+    {
+        "Sent_id": "test_732",
+        "Sent": "Egy kisfiút is látogat Mari."
+    },
+    {
+        "Sent_id": "test_733",
+        "Sent": "A háború elleni küzdelem nem hiábavaló."
+    },
+    {
+        "Sent_id": "test_734",
+        "Sent": "A könyv Máriának ajándékozása jó ötlet volt."
+    },
+    {
+        "Sent_id": "test_735",
+        "Sent": "A táska az asztalra maradt."
+    },
+    {
+        "Sent_id": "test_736",
+        "Sent": "Faragtam egy új lábat a kalóz részére."
+    },
+    {
+        "Sent_id": "test_737",
+        "Sent": "Edit azt szeretné, ha az idő kiderülne."
+    },
+    {
+        "Sent_id": "test_738",
+        "Sent": "Messze a városon túl lakik egy férfi."
+    },
+    {
+        "Sent_id": "test_739",
+        "Sent": "A boszorkány a földkerekségnek a legcsúnyább békáivá változtatta a hercegeket."
+    },
+    {
+        "Sent_id": "test_740",
+        "Sent": "Tegnap szerencsére tetszett meg Jánosnak Mari."
+    },
+    {
+        "Sent_id": "test_741",
+        "Sent": "A kérdéssel, hogy ki nézi a legyeket, Miklós foglalkozik."
+    },
+    {
+        "Sent_id": "test_742",
+        "Sent": "Megvesszük azt a két zöld kabátot és azokat a kék kalapokat?"
+    },
+    {
+        "Sent_id": "test_743",
+        "Sent": "Ott az oroszlán, ami megtámadott."
+    },
+    {
+        "Sent_id": "test_744",
+        "Sent": "Péter élvezi, illetve eltűri a jó zenét, illetve a művészfilmet."
+    },
+    {
+        "Sent_id": "test_745",
+        "Sent": "Mivel beteg volt, Feri nem tudott eljönni."
+    },
+    {
+        "Sent_id": "test_746",
+        "Sent": "Kezdve 1900-tól alkalmazzák."
+    },
+    {
+        "Sent_id": "test_747",
+        "Sent": "Peti karácsony ebben egy ünnepi tájban érkezett."
+    },
+    {
+        "Sent_id": "test_748",
+        "Sent": "Ez az apa büszkébb a fiára, mint az."
+    },
+    {
+        "Sent_id": "test_749",
+        "Sent": "Péter szeretné, hogy megírd a levelet."
+    },
+    {
+        "Sent_id": "test_750",
+        "Sent": "Ki érkezik, és mikor?"
+    },
+    {
+        "Sent_id": "test_751",
+        "Sent": "Ki és mit főzött meg?"
+    },
+    {
+        "Sent_id": "test_752",
+        "Sent": "A tavaly nálunk dolgozott lengyelek már mind hazautaztak."
+    },
+    {
+        "Sent_id": "test_753",
+        "Sent": "Bár tél van, süt a nap."
+    },
+    {
+        "Sent_id": "test_754",
+        "Sent": "Imi négyszer kopogott."
+    },
+    {
+        "Sent_id": "test_755",
+        "Sent": "Szép a havazó ég."
+    },
+    {
+        "Sent_id": "test_756",
+        "Sent": "Péter kedveli Marit, de nem hívta meg."
+    },
+    {
+        "Sent_id": "test_757",
+        "Sent": "A kerítés pirosra alapos festése miatt elkéstünk."
+    },
+    {
+        "Sent_id": "test_758",
+        "Sent": "Egy könyvet nem illik eladni az antikváriumban."
+    },
+    {
+        "Sent_id": "test_759",
+        "Sent": "Elolvasom az Anna négy érdekes cikkét."
+    },
+    {
+        "Sent_id": "test_760",
+        "Sent": "Az ÁVH börtöneiben, kihallgató intézményeinél az őröknek, tiszteknek megvolt az a joguk, hogy az elítéltet bármikor, bármilyen alap nélkül is, testi fenyítésben részesíthették."
+    },
+    {
+        "Sent_id": "test_761",
+        "Sent": "A program májusban való megfogalmazásai rendben voltak."
+    },
+    {
+        "Sent_id": "test_762",
+        "Sent": "Imre levelet kapott tegnap Erzsitől."
+    },
+    {
+        "Sent_id": "test_763",
+        "Sent": "Elolvasom a Péter által megírt jelentést."
+    },
+    {
+        "Sent_id": "test_764",
+        "Sent": "A könyv mellettünk van."
+    },
+    {
+        "Sent_id": "test_765",
+        "Sent": "Valahányszor bejött, mindig megijedtem."
+    },
+    {
+        "Sent_id": "test_766",
+        "Sent": "Megcsókolva Marit felvidultam."
+    },
+    {
+        "Sent_id": "test_767",
+        "Sent": "Ili fenekestül felforgatta a házat."
+    },
+    {
+        "Sent_id": "test_768",
+        "Sent": "Londonban hajnalban a felügyelő döntésre jutott."
+    },
+    {
+        "Sent_id": "test_769",
+        "Sent": "Mariann okos volt."
+    },
+    {
+        "Sent_id": "test_770",
+        "Sent": "Kati bejön a szobába."
+    },
+    {
+        "Sent_id": "test_771",
+        "Sent": "Ez kellemetlen volt Pál számára."
+    },
+    {
+        "Sent_id": "test_772",
+        "Sent": "Ez hihetetlen!"
+    },
+    {
+        "Sent_id": "test_773",
+        "Sent": "A kéthetes karibi útra meghívtak egy új kollégát, de azt sajnos csak a karrierje érdekli."
+    },
+    {
+        "Sent_id": "test_774",
+        "Sent": "Vedd el a tollat az a két zöld kabát alól, és tedd ezek a kék kalapok alá!"
+    },
+    {
+        "Sent_id": "test_775",
+        "Sent": "Végigmegyek az úton."
+    },
+    {
+        "Sent_id": "test_776",
+        "Sent": "Péter kedveli Marit, de nem hívta meg őt."
+    },
+    {
+        "Sent_id": "test_777",
+        "Sent": "A Mari iránt érzett sajnálat nem segít."
+    },
+    {
+        "Sent_id": "test_778",
+        "Sent": "A felügyelő minden kérdésben őszintén szólva döntésre jutott."
+    },
+    {
+        "Sent_id": "test_779",
+        "Sent": "Gyula nem tudta, hogy a szerencsétlen elvesztette a lakáskulcsot."
+    },
+    {
+        "Sent_id": "test_780",
+        "Sent": "Bánt ő, hogy megsértettelek."
+    },
+    {
+        "Sent_id": "test_781",
+        "Sent": "Enikő gyanút fog."
+    },
+    {
+        "Sent_id": "test_782",
+        "Sent": "Az irodába pizzafutár vitte az ebédet."
+    },
+    {
+        "Sent_id": "test_783",
+        "Sent": "Csak a Raid riasztja el ezeket a szúnyogokat, végül mégis éppen őbenne csalódtunk."
+    },
+    {
+        "Sent_id": "test_784",
+        "Sent": "Na például az a lány, akit úgy imádsz, aki most bikiniben van, ő tuti nem ég le!"
+    },
+    {
+        "Sent_id": "test_785",
+        "Sent": "Karcsi arra való törekvéséről, hogy elmondja az igazat, tudtunk."
+    },
+    {
+        "Sent_id": "test_786",
+        "Sent": "Jánosék kirándulni indultak, de az állomásra érve eleredt az eső."
+    },
+    {
+        "Sent_id": "test_787",
+        "Sent": "Ili a kirakatokat nézve sétált."
+    },
+    {
+        "Sent_id": "test_788",
+        "Sent": "Vendég való érkezése várható."
+    },
+    {
+        "Sent_id": "test_789",
+        "Sent": "A felügyelő minden kérdésben általában döntésre jutott."
+    },
+    {
+        "Sent_id": "test_790",
+        "Sent": "Csak Pétert érdekli a mondattan, de ő sajnos nem ér rá pénteken."
+    },
+    {
+        "Sent_id": "test_791",
+        "Sent": "A szomszéd éppen a Raid mellett kardoskodott, viszont pont vált ki allergiás rohamot nálam."
+    },
+    {
+        "Sent_id": "test_792",
+        "Sent": "A cikk megfogalmazásai pontatlanok."
+    },
+    {
+        "Sent_id": "test_793",
+        "Sent": "A felügyelő valóban döntésre jutott."
+    },
+    {
+        "Sent_id": "test_794",
+        "Sent": "Láttam egy képet Cholnokytól."
+    },
+    {
+        "Sent_id": "test_795",
+        "Sent": "A bagoly odúba költözött."
+    },
+    {
+        "Sent_id": "test_796",
+        "Sent": "Itt még ingujjban is melegem van."
+    },
+    {
+        "Sent_id": "test_797",
+        "Sent": "A nyomozó kevésszer utasít el ügyfeleket."
+    },
+    {
+        "Sent_id": "test_798",
+        "Sent": "A szorgalmas diákok kirándulni mennek."
+    },
+    {
+        "Sent_id": "test_799",
+        "Sent": "Úgy gondoltam, hogy megnyerem a versenyt."
+    },
+    {
+        "Sent_id": "test_800",
+        "Sent": "Az új ügyfélnek van 500 dollárja."
+    },
+    {
+        "Sent_id": "test_801",
+        "Sent": "Egyszerűek a gyerekekkel elénekeltethető dalok."
+    },
+    {
+        "Sent_id": "test_802",
+        "Sent": "Laci kijárta az iskolát azóta, amióta megnősült."
+    },
+    {
+        "Sent_id": "test_803",
+        "Sent": "Éva nem viselkedett rosszul."
+    },
+    {
+        "Sent_id": "test_804",
+        "Sent": "A gép szombaton is, meg vasárnap is dolgozott."
+    },
+    {
+        "Sent_id": "test_805",
+        "Sent": "Pál biztosítás nélkül él."
+    },
+    {
+        "Sent_id": "test_806",
+        "Sent": "A tegnapi nap során beszéltem mindenkivel."
+    },
+    {
+        "Sent_id": "test_807",
+        "Sent": "Kati csókolózott Péterrel."
+    },
+    {
+        "Sent_id": "test_808",
+        "Sent": "Megcsókoltam Marit."
+    },
+    {
+        "Sent_id": "test_809",
+        "Sent": "Felettébb érdeklődtek aziránt is, hogy hol jártál."
+    },
+    {
+        "Sent_id": "test_810",
+        "Sent": "Ehhez közel a házhoz közel lakunk."
+    },
+    {
+        "Sent_id": "test_811",
+        "Sent": "Ili a családjával jött a rendezvényre."
+    },
+    {
+        "Sent_id": "test_812",
+        "Sent": "Csak egy diákot érdekel a mondattan, de sajnos nem ér rá pénteken."
+    },
+    {
+        "Sent_id": "test_813",
+        "Sent": "Kiről beszélgettetek?"
+    },
+    {
+        "Sent_id": "test_814",
+        "Sent": "Ismét Félix legépelte a levelet."
+    },
+    {
+        "Sent_id": "test_815",
+        "Sent": "Mindannyian unatkoztunk az eredményen."
+    },
+    {
+        "Sent_id": "test_816",
+        "Sent": "Nem őneki a kalapja veszett el."
+    },
+    {
+        "Sent_id": "test_817",
+        "Sent": "A felesége vajon sejti?"
+    },
+    {
+        "Sent_id": "test_818",
+        "Sent": "A nyomozó szerencsére a gyilkost elkapta a faluban."
+    },
+    {
+        "Sent_id": "test_819",
+        "Sent": "Péter nagyon odavan a szomszéd lányért, de a barátjának nem szimpatikus az."
+    },
+    {
+        "Sent_id": "test_820",
+        "Sent": "Olvastam valamit, amely 1848-ról szólt."
+    },
+    {
+        "Sent_id": "test_821",
+        "Sent": "Ili tilosban jár."
+    },
+    {
+        "Sent_id": "test_822",
+        "Sent": "Az új szemüveg jobban lát."
+    },
+    {
+        "Sent_id": "test_823",
+        "Sent": "Újdonság volt számomra Budapest elterülése."
+    },
+    {
+        "Sent_id": "test_824",
+        "Sent": "A 2016-os év során beszéltem mindenkivel."
+    },
+    {
+        "Sent_id": "test_825",
+        "Sent": "A növényeknek árt a kiszáradás."
+    },
+    {
+        "Sent_id": "test_826",
+        "Sent": "Mari is mellett játszik."
+    },
+    {
+        "Sent_id": "test_827",
+        "Sent": "A nagyapám fehérre őszült."
+    },
+    {
+        "Sent_id": "test_828",
+        "Sent": "Marit nem boldogítja a tanárként való nagyra becsülése."
+    },
+    {
+        "Sent_id": "test_829",
+        "Sent": "Akadt Péter jó embere."
+    },
+    {
+        "Sent_id": "test_830",
+        "Sent": "Jogilag a kapitány elvesztette az ügyet."
+    },
+    {
+        "Sent_id": "test_831",
+        "Sent": "Péter papucsban táncoltatta meg Marit."
+    },
+    {
+        "Sent_id": "test_832",
+        "Sent": "Most jön az a színdarab, amit Péter látott."
+    },
+    {
+        "Sent_id": "test_833",
+        "Sent": "Egyenesen az erdőbe mentünk."
+    },
+    {
+        "Sent_id": "test_834",
+        "Sent": "Az a lányé?"
+    },
+    {
+        "Sent_id": "test_835",
+        "Sent": "Szerencsére, a nyomozó néha elkapta a gyilkost."
+    },
+    {
+        "Sent_id": "test_836",
+        "Sent": "Péter átadott 10 dollárt az alapítványnak János számára."
+    },
+    {
+        "Sent_id": "test_837",
+        "Sent": "Jánosnak túl mély ez a tó."
+    },
+    {
+        "Sent_id": "test_838",
+        "Sent": "Félix két órát dolgozott."
+    },
+    {
+        "Sent_id": "test_839",
+        "Sent": "Kedvenc helyem a középhegység."
+    },
+    {
+        "Sent_id": "test_840",
+        "Sent": "Mari mindenkinek megint egy könyvet vett."
+    },
+    {
+        "Sent_id": "test_841",
+        "Sent": "Ili tengernél szeretne nyaralni."
+    },
+    {
+        "Sent_id": "test_842",
+        "Sent": "Péter dedósnak tekint egyetemistát."
+    },
+    {
+        "Sent_id": "test_843",
+        "Sent": "Ketten eltévedtek, de egy lányt hamar megtaláltunk."
+    },
+    {
+        "Sent_id": "test_844",
+        "Sent": "Imre ismerkedett vele meg."
+    },
+    {
+        "Sent_id": "test_845",
+        "Sent": "Ili nem tehet róla, hogy kirúgták."
+    },
+    {
+        "Sent_id": "test_846",
+        "Sent": "Találtál olyat, amit kerestél?"
+    },
+    {
+        "Sent_id": "test_847",
+        "Sent": "Nem nézek meg minden új magyar filmet."
+    },
+    {
+        "Sent_id": "test_848",
+        "Sent": "Ez az épület át fogja vészelni a háborút."
+    },
+    {
+        "Sent_id": "test_849",
+        "Sent": "Erzsi tegnap vidáman takarította ki a konyhát."
+    },
+    {
+        "Sent_id": "test_850",
+        "Sent": "Péter vászonfedelű lesz."
+    },
+    {
+        "Sent_id": "test_851",
+        "Sent": "János sokáig gondolkodott."
+    },
+    {
+        "Sent_id": "test_852",
+        "Sent": "A szék a sarokban áll."
+    },
+    {
+        "Sent_id": "test_853",
+        "Sent": "Az ember egyes vallások szerint a halál után újjászületik."
+    },
+    {
+        "Sent_id": "test_854",
+        "Sent": "Szerintem pont ő okozza majd a vesztét."
+    },
+    {
+        "Sent_id": "test_855",
+        "Sent": "Pétert tanárnak hitték."
+    },
+    {
+        "Sent_id": "test_856",
+        "Sent": "Eleinte csak Péterben bíztam meg, mégis pont őt értem hazugságon."
+    },
+    {
+        "Sent_id": "test_857",
+        "Sent": "Miről beszélgettetek?"
+    },
+    {
+        "Sent_id": "test_858",
+        "Sent": "Ha Péter otthon van, János szorgalmasan dolgozik a munkahelyén."
+    },
+    {
+        "Sent_id": "test_859",
+        "Sent": "János bízik."
+    },
+    {
+        "Sent_id": "test_860",
+        "Sent": "Láttad a gyűrűjüket?"
+    },
+    {
+        "Sent_id": "test_861",
+        "Sent": "Csak a Raid riasztja el ezeket a szúnyogokat, viszont pont ő vált ki allergiás rohamot nálam."
+    },
+    {
+        "Sent_id": "test_862",
+        "Sent": "Ha Mariról, akkor hozok."
+    },
+    {
+        "Sent_id": "test_863",
+        "Sent": "János nem festette be a kerítést."
+    },
+    {
+        "Sent_id": "test_864",
+        "Sent": "A program májusi megfogalmazása rendben volt."
+    },
+    {
+        "Sent_id": "test_865",
+        "Sent": "Péter nagyon érdeklődik a nyelvészet iránt, de sajnos nem ér ő rá pénteken."
+    },
+    {
+        "Sent_id": "test_866",
+        "Sent": "Én el kell mennem."
+    },
+    {
+        "Sent_id": "test_867",
+        "Sent": "Péternek a macskáktól való idegenkedése nem meglepő."
+    },
+    {
+        "Sent_id": "test_868",
+        "Sent": "Ez a Péter barátja nagyon kedves."
+    },
+    {
+        "Sent_id": "test_869",
+        "Sent": "Ili hétfőn tanult."
+    },
+    {
+        "Sent_id": "test_870",
+        "Sent": "Nem nézem őt."
+    },
+    {
+        "Sent_id": "test_871",
+        "Sent": "Egy darabig elborozgattak."
+    },
+    {
+        "Sent_id": "test_872",
+        "Sent": "A kapitány alig fáradt el."
+    },
+    {
+        "Sent_id": "test_873",
+        "Sent": "Nevettek a játékokon, amiket tőlem kapott."
+    },
+    {
+        "Sent_id": "test_874",
+        "Sent": "Ki festette be a kerítést?"
+    },
+    {
+        "Sent_id": "test_875",
+        "Sent": "János kétnaponként úszni jár."
+    },
+    {
+        "Sent_id": "test_876",
+        "Sent": "Tettem egy képet a gyerekek mellé önmagukról."
+    },
+    {
+        "Sent_id": "test_877",
+        "Sent": "András az ebadót fizette ki, és Péter is."
+    },
+    {
+        "Sent_id": "test_878",
+        "Sent": "Ne verd meg az öcsém!"
+    },
+    {
+        "Sent_id": "test_879",
+        "Sent": "Piroska az újságkihordótól tudta meg a legfontosabb híreket, de Vali a házmestertől."
+    },
+    {
+        "Sent_id": "test_880",
+        "Sent": "Ez Péter képe."
+    },
+    {
+        "Sent_id": "test_881",
+        "Sent": "A későbbi hadvezér ekkor még csecsemő volt."
+    },
+    {
+        "Sent_id": "test_882",
+        "Sent": "Egy fiúnak a könyve elveszett."
+    },
+    {
+        "Sent_id": "test_883",
+        "Sent": "Őnekik a kalapjuk veszett el."
+    },
+    {
+        "Sent_id": "test_884",
+        "Sent": "Ez nem jelent semmit."
+    },
+    {
+        "Sent_id": "test_885",
+        "Sent": "Ez a ruha Katit nagymamává öregíti."
+    },
+    {
+        "Sent_id": "test_886",
+        "Sent": "Azokból a fiadékból?"
+    },
+    {
+        "Sent_id": "test_887",
+        "Sent": "Éva alatta maradt."
+    },
+    {
+        "Sent_id": "test_888",
+        "Sent": "Úszni fárasztó."
+    },
+    {
+        "Sent_id": "test_889",
+        "Sent": "Én terád is rádnéztem."
+    },
+    {
+        "Sent_id": "test_890",
+        "Sent": "A detektív azt is elárulta, hogy köztünk kell keresni a bűnöst."
+    },
+    {
+        "Sent_id": "test_891",
+        "Sent": "Éppen fenn a padláson, egy üres dobozt se találtunk."
+    },
+    {
+        "Sent_id": "test_892",
+        "Sent": "Nehéz kitalálni, mi járhat Pál fejében."
+    },
+    {
+        "Sent_id": "test_893",
+        "Sent": "Péternek az ő kalapja elveszett."
+    },
+    {
+        "Sent_id": "test_894",
+        "Sent": "Alig a ház elől indultam."
+    },
+    {
+        "Sent_id": "test_895",
+        "Sent": "Rögtön karácsony után született a fiam."
+    },
+    {
+        "Sent_id": "test_896",
+        "Sent": "Az ajánlás nyomán jutottunk el hozzá."
+    },
+    {
+        "Sent_id": "test_897",
+        "Sent": "Vajon sejti a felesége?"
+    },
+    {
+        "Sent_id": "test_898",
+        "Sent": "Pali a ház mögé gurította a labdát."
+    },
+    {
+        "Sent_id": "test_899",
+        "Sent": "Egymás nem látták Jánosékat."
+    }
+]
