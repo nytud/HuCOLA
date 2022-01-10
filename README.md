@@ -3,7 +3,7 @@ This is the home repository for the Hungarian Corpus of Linguistic Acceptability
 
 ## Data
 
-The files are in the 'data' folder. The dataset contains 9 014 sentences. Each sentence is labelled for its acceptability / grammaticality (0/1).
+The files are in the 'data' folder. The dataset contains 9 096 sentences. Each sentence is labelled for its acceptability / grammaticality (0/1).
 
 The sentences were collected by two human annotators from three linguistic books: 
 - Kiefer Ferenc (szerk.) (1992), Strukturális magyar nyelvtan 1. Mondattan. Budapest, Akadémiai Kiadó. 
