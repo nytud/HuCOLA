@@ -36068,5 +36068,315 @@
         "Sent_id": "train_7213",
         "Sent": "Félix vendégnek tekintette a felügyelőt.",
         "Label": "1"
+    },
+    {
+        "Sent_id": "train_7214",
+        "Sent": "A földek eláradtak.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "train_7215",
+        "Sent": "A kisfiú egy perc alatt tipegett.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "train_7216",
+        "Sent": "Mindez Ferire vall.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7217",
+        "Sent": "A Pesten összegyűlt 120 feldühödött pécsi egyetemi hallgató az elnök leváltását követelte.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7218",
+        "Sent": "Az új diák nagyon érdeklődik a nyelvészet iránt, de pont nem ér rá pénteken.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7219",
+        "Sent": "Megszületett gyerek.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "train_7220",
+        "Sent": "Rosszul Imre megválaszolta a kérdést.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "train_7221",
+        "Sent": "Andrea azt kérdezte Tamástól, hogy kitől kapta a könyvet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7222",
+        "Sent": "Félix gyakran gépelte le a levelet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7223",
+        "Sent": "Ez lehetetlen!",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7224",
+        "Sent": "Szőke nő és a magas férfi sétált az utcán.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "train_7225",
+        "Sent": "A Szabó családban született gyerek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7226",
+        "Sent": "Süt a nap, bár tél van.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7227",
+        "Sent": "János felemelte a felborult széket.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7228",
+        "Sent": "Éva vázaként használta az üveget.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7229",
+        "Sent": "Péter az imént a konyhában egy tálcán az asztalra tette a lábast.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7230",
+        "Sent": "Vendégek híján elmaradt a rendezvény.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7231",
+        "Sent": "Péter megkerülte a házat.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7232",
+        "Sent": "A fiam tanárnak levő.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "train_7233",
+        "Sent": "Azon a folyón túl lakunk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7234",
+        "Sent": "A megbeszélést elhalasztották este hatra.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7235",
+        "Sent": "Péter betegnek tűnt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7236",
+        "Sent": "A vonal alá kell írni.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7237",
+        "Sent": "János fél a Péter által való legyőzéstől.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "train_7238",
+        "Sent": "Az ő nyomukon kezdődött meg az Alföld fásítása.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7239",
+        "Sent": "Találtad azt, amit kerestél?",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "train_7240",
+        "Sent": "Péternek az előadás alatti felkiáltása sokakat megzavart.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7241",
+        "Sent": "Az asztalon és a székek mögött könyvek voltak.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7242",
+        "Sent": "Ott van egy olvasott ember.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7243",
+        "Sent": "A hőmérsékletet, a nyomást vagy az energiafelhasználást, a teljesítményt mérték meg.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7244",
+        "Sent": "Ili kedvesből ijesztővé változott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7245",
+        "Sent": "A könyv ezé a fiúé.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7246",
+        "Sent": "A felügyelő könnyen jutott döntésre.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7247",
+        "Sent": "A tetőről lehulló cserepek felsebezték a gyerek lábát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7248",
+        "Sent": "amit Emese olvasott",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7249",
+        "Sent": "Péter dedósnak tekinti az öccsét.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7250",
+        "Sent": "A gyerekek a fagylaltot kóstolták meg, Anna pedig a tortát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7251",
+        "Sent": "Péternek nagyon tetszik az új szintaxis-könyv, de éppen vártuk mi is.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "train_7252",
+        "Sent": "Ekkor már terhes voltam a gyerekünkkel.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7253",
+        "Sent": "Csak az új diákot érdekli a nyelvészet, mégis éppen ő bukott meg.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7254",
+        "Sent": "Abban, hogy nagy sikert arattak, biztosak a fiúk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7255",
+        "Sent": "Anna újra zöldre festette a kerítést.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7256",
+        "Sent": "A szék az asztal előtt állt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7257",
+        "Sent": "Valamelyik állításod igaz.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7258",
+        "Sent": "Összevesztek Ili azon játékain, amiket tőlem kapott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7259",
+        "Sent": "A szándéka Péternek változott meg.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7260",
+        "Sent": "Ennél megfogva kell kihúzni onnan.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7261",
+        "Sent": "Az előadás a jövő héten kezdődik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7262",
+        "Sent": "Ennek a dolgozónak nélkül nem megy a munka.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "train_7263",
+        "Sent": "Aztán, mivel ez tűnt a legjobb megoldásnak, Mari megágyazott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7264",
+        "Sent": "Az Európa-bajnok Imre lett.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7265",
+        "Sent": "Érkezett részemre egy csomag.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7266",
+        "Sent": "Szerte országban sok a macska.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "train_7267",
+        "Sent": "Egy új diák nagyon érdeklődik a nyelvészet iránt, de pont azt nem tudtuk elhívni a mai előadásra.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "train_7268",
+        "Sent": "Kati az asztal alatt ült.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7269",
+        "Sent": "Akkor érkezett meg Eszter, amikor a tea elkészült.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7270",
+        "Sent": "A bíróság Péter ügyében döntött.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7271",
+        "Sent": "Újév körül született.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7272",
+        "Sent": "Ili ugrált ki-be.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7273",
+        "Sent": "A vonal alatt kell aláírni.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "train_7274",
+        "Sent": "Mari egy csipesszel szerette meg a bélyegeket.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "train_7275",
+        "Sent": "Épp 10 óra tájban hívtalak.",
+        "Label": "1"
     }
 ]
