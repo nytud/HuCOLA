@@ -3,7 +3,7 @@ This is the home repository for the Hungarian Corpus of Linguistic Acceptability
 
 ## Data
 
-The files are in the 'data' folder. The dataset contains 9 096 sentences. Each sentence is labelled for its acceptability / grammaticality (0/1).
+The files are in the 'data' folder. The dataset contains 9 076 sentences. Each sentence is labelled for its acceptability / grammaticality (0/1).
 
 The sentences were collected by two human annotators from three linguistic books: 
 - Kiefer Ferenc (szerk.) (1992), Strukturális magyar nyelvtan 1. Mondattan. Budapest, Akadémiai Kiadó. 
@@ -12,7 +12,7 @@ The sentences were collected by two human annotators from three linguistic books
 
 Each sentence was annotated by four human annotators. The final label of the sentence is the one assigned by the majority of the annotators.
 
-The proportion of train, development and test sets is 80% (7214 sentences), 10% (900 sentences) and 10% (900 sentences), respectively, following the proportion of the English Corpus of Linguistic Acceptability (as in the GLUE benchmark). The test set is distributed without the labels; to evaluate your model please contact us (ligeti-nagy.noemi@nytud.hu) or visit [HuLU's website](hulu.nlp.nytud.hu) for an automatic evaluation (under construction). The metric of the evaluation is accuracy.
+The proportion of train, development and test sets is 80% (7276 sentences), 10% (900 sentences) and 10% (900 sentences), respectively, following the proportion of the English Corpus of Linguistic Acceptability (as in the GLUE benchmark). The test set is distributed without the labels; to evaluate your model please contact us (ligeti-nagy.noemi@nytud.hu) or visit [HuLU's website](hulu.nlp.nytud.hu) for an automatic evaluation (under construction). The metric of the evaluation is accuracy.
 
 ## Data format
 
