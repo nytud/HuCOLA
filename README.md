@@ -26,7 +26,7 @@ The data files are in json format. The keys are the following:
 
 ## Guidelines
 
-Later...
+The annotation guide for the collection of sentences and for the annotation of the sentences are in the 'guidelines' folder.
 
 ## License and usage
 
