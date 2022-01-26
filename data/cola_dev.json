@@ -1,0 +1,4552 @@
+[
+    {
+        "Sent_id": "dev_0",
+        "Sent": "A vonalon felül kell aláírni.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_1",
+        "Sent": "Éva kapott levelet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_2",
+        "Sent": "Péternek az udvaron történt ugrándozása balesetet okozott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_3",
+        "Sent": "Péter számba vette az esélyeket.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_4",
+        "Sent": "Mari futott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_5",
+        "Sent": "Ott egy ház a sziklák alatt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_6",
+        "Sent": "Pál az ágyban van.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_7",
+        "Sent": "Szerintem pont ez okozza majd a vesztét, hogy egy ilyen ügybe keveredik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_8",
+        "Sent": "A ruha szövetből van.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_9",
+        "Sent": "Iván ötlete volt a Pécsre küldésünk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_10",
+        "Sent": "Nem emlékeztek arra, hogy Gazsi törte be az ablakot.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_11",
+        "Sent": "Csak az új diákot érdekli a mondattan, de az sajnos nem ér rá pénteken.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_12",
+        "Sent": "Szedtünk szilvát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_13",
+        "Sent": "Laci át gondolkodott a feladaton.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_14",
+        "Sent": "Ez kiváló cikknek tűnik!",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_15",
+        "Sent": "A fiam előtornásszá ügyesedett.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_16",
+        "Sent": "A vendégek megmentek.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_17",
+        "Sent": "Épp oda igyekszünk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_18",
+        "Sent": "A csatár labdát gurított a kapuba.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_19",
+        "Sent": "Félix legépelte a levelet, és azt ismét tette.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_20",
+        "Sent": "A latintanár volt Kövendi.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_21",
+        "Sent": "Rólam és Csilláról beszélünk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_22",
+        "Sent": "Bennem gyakran csalódik Péter, de őbenne soha nem csalódtam én.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_23",
+        "Sent": "Ettem két tányér levest egy pillanat alatt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_24",
+        "Sent": "Ez a helyében én sem csinálnám máshogy.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_25",
+        "Sent": "Hosszú volt a Péterrel folytatott vita.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_26",
+        "Sent": "Ez a dolgozó helyében én nem panaszkodnék.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_27",
+        "Sent": "Egyre csak havazott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_28",
+        "Sent": "Mindennap érkezett Pécsre egy holland szintakta.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_29",
+        "Sent": "A vendégek mind megjöttek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_30",
+        "Sent": "Ama fa alatt ültünk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_31",
+        "Sent": "Félix többször is nem gépelte le a leveleket.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_32",
+        "Sent": "Sokkal 6 óra tájékán indultunk.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_33",
+        "Sent": "A házak kicsik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_34",
+        "Sent": "Javában írta a leckéjét.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_35",
+        "Sent": "Az a tanács, hogy távozzunk, elhamarkodott volt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_36",
+        "Sent": "Laci beszélgetést folytat Győzővel.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_37",
+        "Sent": "Elment fiam.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_38",
+        "Sent": "A vonalon alul írd alá.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_39",
+        "Sent": "Péter elbocsátása májusban történt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_40",
+        "Sent": "Imre várt valakit a sarkon, amikor észrevettem.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_41",
+        "Sent": "A Dunántúlon sok galamb van.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_42",
+        "Sent": "A fa mellett állunk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_43",
+        "Sent": "Péternek a szél által való feldöntése váratlan volt.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_44",
+        "Sent": "Az elárasztott vidék szomorú látványt nyújtott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_45",
+        "Sent": "A latintanár Kövendi volt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_46",
+        "Sent": "Én születtem.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_47",
+        "Sent": "A busz pontosan a házhoz közel áll meg.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_48",
+        "Sent": "A felügyelő minden kérdésben valószínűleg döntésre jutott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_49",
+        "Sent": "Kati meghatódik a pókoktól.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_50",
+        "Sent": "Mondd meg minden helyről, hogy ki felvételizett oda!",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_51",
+        "Sent": "Félix leveleket gépelt két órán át.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_52",
+        "Sent": "Akadt ez a jó emberem.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_53",
+        "Sent": "Átadtam a helyem az öregembernek, de nem adtam át a professzornak.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_54",
+        "Sent": "A fiú fellökődött.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_55",
+        "Sent": "Egész nap olvasta a könyvedet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_56",
+        "Sent": "Juli látta Pétert?",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_57",
+        "Sent": "Ez számára hoztam a vizet.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_58",
+        "Sent": "Egyfolytában sírt, hogy senki sem szereti.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_59",
+        "Sent": "Ismerjük azt a véleményt, hogy a gazdaság beteg.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_60",
+        "Sent": "Nóra nem tudta azt, hogy Aranka férjhez ment.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_61",
+        "Sent": "Mindenki, aki találkozott vele, megszerette Klárát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_62",
+        "Sent": "Kati gyorsan úszik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_63",
+        "Sent": "Nem kell a tónak befagynia.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_64",
+        "Sent": "Eleinte csak Péterben bíztam meg, de pont aziránt nem lelkesedtek a többiek.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_65",
+        "Sent": "A gyerek kövérre született.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_66",
+        "Sent": "Kik iránt érdeklődsz?",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_67",
+        "Sent": "Éva gyerekként viselkedett.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_68",
+        "Sent": "Péter egy kutyához hasonlított.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_69",
+        "Sent": "Péter nagyon odavan egy szőke lányért, de a barátja ki nem állhatja őt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_70",
+        "Sent": "Januártól fogva pontosan van érvényben.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_71",
+        "Sent": "A tavalytól kezdve bojkott nem tett jót az üzletnek.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_72",
+        "Sent": "Olívia a nyomozás lezárása miatt felhívta a felügyelőt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_73",
+        "Sent": "Kati eléggé barátságos volt Ferivel.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_74",
+        "Sent": "Vendég híján elmaradt a rendezvény.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_75",
+        "Sent": "A kisfiút látogatta meg Mari tegnap.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_76",
+        "Sent": "Péterék szétrobbantották a hordót.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_77",
+        "Sent": "Péter eszik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_78",
+        "Sent": "Most jelent meg egy Szabolcsi-cikk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_79",
+        "Sent": "Ez a ruha már kopott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_80",
+        "Sent": "János vékonyra vágta a fát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_81",
+        "Sent": "Én bírom Pétert, de ő nem bír engem.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_82",
+        "Sent": "Nincs könyvem Krúdytól.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_83",
+        "Sent": "Piroska az újságkihordótól értesült a legújabb hírekről, Vali ezért a házmestertől.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_84",
+        "Sent": "Félix sajnos legépelte a levelet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_85",
+        "Sent": "A kerttől történő elsétálás a legjobb.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_86",
+        "Sent": "János a kalauznak adta oda a jegy árát, míg a hordárnak borravalót.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_87",
+        "Sent": "Az otthoni címemre kérem, hogy küldjék a levelet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_88",
+        "Sent": "Mivel Feri beteg volt, az ünnepély elmaradt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_89",
+        "Sent": "A földek feldúlódtak a víztől.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_90",
+        "Sent": "Tőle tart, hogy nem ismerik fel.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_91",
+        "Sent": "Őiránta is érdeklődtek, hogy hol jártál.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_92",
+        "Sent": "Megjelent nekem ez a cikkem.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_93",
+        "Sent": "Ezért Péter otthon van, János szorgalmasan dolgozik a munkahelyén.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_94",
+        "Sent": "A szobába Péter vitte be a lámpát nehezéknek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_95",
+        "Sent": "Erzsit Imre meghívta.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_96",
+        "Sent": "Ili ki ne menjen a kertbe!",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_97",
+        "Sent": "Ekkor megpillantottam a csodálatos Pétert.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_98",
+        "Sent": "Ez egy nagyon érthető szöveg.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_99",
+        "Sent": "Egy három fiú megérkezett.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_100",
+        "Sent": "A kutya rókalyukban találta ezt a kölyköt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_101",
+        "Sent": "Egyenesen ki az üvegekkel!",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_102",
+        "Sent": "A minden várost ismerő fiú megérkezett.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_103",
+        "Sent": "Ez a jelentés már elküldhető a központnak.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_104",
+        "Sent": "Imre megismerkedett Erzsivel.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_105",
+        "Sent": "A tanár a jutalmat kapó diákkal beszélget.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_106",
+        "Sent": "A kéthetes karibi útra meghívták a szomszéd srácot, de sajnos csak a karrierjét hajtja.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_107",
+        "Sent": "Kevéssel Pál révén jutottam be.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_108",
+        "Sent": "Láttad őt?",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_109",
+        "Sent": "Jutalmul Palika lemehetett játszani.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_110",
+        "Sent": "Ili a fal mellől tesz egy dobozt.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_111",
+        "Sent": "Az én testvérem hallgass rám!",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_112",
+        "Sent": "A fiúk sakkoznak egymással.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_113",
+        "Sent": "Andor úgy tudja, hogy sikerült a vizsga.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_114",
+        "Sent": "Kati az asztalon tette a táskát.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_115",
+        "Sent": "6 óra tájban érkeztünk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_116",
+        "Sent": "Pörköltnek a húst Péter kockára vágja.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_117",
+        "Sent": "Péter nagyon odavan Mariért, de a barátja csak megvetést érez aziránt.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_118",
+        "Sent": "Ili bízik benne, hogy Pál 8-ra jön.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_119",
+        "Sent": "Ili örül őneki, hogy Pál 8-ra jön.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_120",
+        "Sent": "A házhoz közel parkoltunk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_121",
+        "Sent": "Erzsi két férfival vacsorázik együtt gyakran.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_122",
+        "Sent": "Félix már nem gépel leveleket.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_123",
+        "Sent": "A nyomozó elkapta a gyilkost, és azt szinte tette.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_124",
+        "Sent": "Ezek a könyvek nem adandók oda az olvasóknak.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_125",
+        "Sent": "Évával nem bánnak gyerekként.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_126",
+        "Sent": "János fel fog ébredni.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_127",
+        "Sent": "Artúr a piros kannával locsolta meg a virágokat.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_128",
+        "Sent": "Közvetlenül karácsony óta nem találkoztunk.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_129",
+        "Sent": "Egyenesen oda kellett menni.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_130",
+        "Sent": "János sokat beszélt önmagáról.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_131",
+        "Sent": "Juli megszépült az örömtől.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_132",
+        "Sent": "A cipőm bőrből van.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_133",
+        "Sent": "János és Mari becsomagolta a ruhaneműt, majd megcímkézték a csomagot.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_134",
+        "Sent": "Mellettünk János olvastunk.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_135",
+        "Sent": "A szomszédom beteggé verte a feleségét.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_136",
+        "Sent": "Mindenki hisz nekem.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_137",
+        "Sent": "Fél órán belül kaptam egy emailt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_138",
+        "Sent": "A kozmetikus megszépítette Julit.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_139",
+        "Sent": "Két méterrel a ház mögé építettük a fészert.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_140",
+        "Sent": "Az öcsém betörte az ablakot egy kalapáccsal.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_141",
+        "Sent": "Péter Pestre érkezése váratlan volt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_142",
+        "Sent": "Csak őnekik a kalapjuk veszett el.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_143",
+        "Sent": "A gyerek a kórházban született.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_144",
+        "Sent": "Természetesen a barátaimat meghívtam.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_145",
+        "Sent": "A Pétert alaposan megdöbbentő kérdés számomra komikusnak tűnt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_146",
+        "Sent": "Az, aki ismeri Jánost, nem bízik meg benne.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_147",
+        "Sent": "Az út kastélytól indul.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_148",
+        "Sent": "János felvágta a fát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_149",
+        "Sent": "Közvetlenül a belvároson át vezet az út.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_150",
+        "Sent": "Ili orvosként dolgozik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_151",
+        "Sent": "Péter felállt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_152",
+        "Sent": "Lejárván a szabadsága, Jóskára új feladatok vártak.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_153",
+        "Sent": "A Tejút egyre távolodik a galaxis belsejétől.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_154",
+        "Sent": "Almát hámoztam.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_155",
+        "Sent": "Bejön ez az életmód.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_156",
+        "Sent": "Laci három nap lassan múlva érkezik.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_157",
+        "Sent": "A ház mellett van.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_158",
+        "Sent": "Bence egy nyakláncot fogott ki.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_159",
+        "Sent": "Épp az iskolával szembe építették a kocsmát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_160",
+        "Sent": "Jön néhány kutya.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_161",
+        "Sent": "Olyan két héten át vártunk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_162",
+        "Sent": "Csak a kalapja tűnt el mindenkinek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_163",
+        "Sent": "A polcon vannak az adható könyvek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_164",
+        "Sent": "Ilinek a játékain veszekednek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_165",
+        "Sent": "Pál három cső zöld paprikája elfogyott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_166",
+        "Sent": "A szék belebotlása fájdalmas volt.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_167",
+        "Sent": "Tegnap hülyére ereszkedtem magam.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_168",
+        "Sent": "A baba fogóval született.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_169",
+        "Sent": "Peti karácsony ebben a tájban érkezett.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_170",
+        "Sent": "Az imént még csodálattal bámult képet János darabokra tépte.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_171",
+        "Sent": "Józsi a konyhába futott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_172",
+        "Sent": "Az eső szünet nélkül esik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_173",
+        "Sent": "Gyuri mit képzelt, mikor készülsz el?",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_174",
+        "Sent": "János hidegen hozott be levest.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_175",
+        "Sent": "János végül bedobta a törülközőt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_176",
+        "Sent": "Félix nem gépelte le azonnal a leveleket.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_177",
+        "Sent": "Péter elégette szénné a húst.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_178",
+        "Sent": "Ez a felszín alattra nem vonatkozik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_179",
+        "Sent": "A kormány bukásának a rágalmát külföldön terjesztik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_180",
+        "Sent": "Jaj, te mindig bírod a szomszéd srácot, de ő soha nem bír téged.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_181",
+        "Sent": "A vonat ablaka előtt fák suhantak el.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_182",
+        "Sent": "Ernő a művészfilmeket szokta megnézni, de Vali nem.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_183",
+        "Sent": "Pál biciklizik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_184",
+        "Sent": "János örömében mindenkivel összeveszett.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_185",
+        "Sent": "Tetszik eme 20 játék.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_186",
+        "Sent": "Jó érzés a múlttal való megbékélés.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_187",
+        "Sent": "Félix legépelte a levelet, és azt gyakran tette.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_188",
+        "Sent": "Pál feleségül vette Ilit.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_189",
+        "Sent": "Először Mari rokonainak szokásairól beszélek, majd a barátaiméiéiról.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_190",
+        "Sent": "Tudom, hogy bár fáradtak, akár János, akár Mari azonnal megtenné azt, amire téged hiába kértelek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_191",
+        "Sent": "A légy volt a levesemben, nem a szúnyog.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_192",
+        "Sent": "Tegnaptól fogva alkalmazzák.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_193",
+        "Sent": "Kati fáradtra táncolt.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_194",
+        "Sent": "Félix újra gépelte le a levelet.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_195",
+        "Sent": "Péter nem nőtt kétméteresre, amekkora András lehetett.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_196",
+        "Sent": "A Péterrel beszélgető gyerekek szőkék.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_197",
+        "Sent": "Péter ma neveletlenül viselkedett az iskolában.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_198",
+        "Sent": "Hamarosan beáll az esős évszak.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_199",
+        "Sent": "A tavalytól fogva tartó bojkott nem tett jót az üzletnek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_200",
+        "Sent": "Kattant a villanykapcsoló.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_201",
+        "Sent": "Londonban a nyomozó minden gyilkost elkapott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_202",
+        "Sent": "Az elnökre pontosan nézve a legveszélyesebb.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_203",
+        "Sent": "Péter jól bánása a feleségével szokatlan.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_204",
+        "Sent": "Andor, hogy a versenyen győzött, gondolta.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_205",
+        "Sent": "Szeretném azt, hogyha egyszer nem aludnál munkaidőben.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_206",
+        "Sent": "Jóska duzzogva ette a spenótot.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_207",
+        "Sent": "És vajon sejti a felesége?",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_208",
+        "Sent": "Félix azonnal gépelte le a levelet.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_209",
+        "Sent": "Ili sofőrhöz ment.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_210",
+        "Sent": "A ház már eladódott a szomszédom által.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_211",
+        "Sent": "Az írás a vonalon felüli a jó.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_212",
+        "Sent": "Ili tegnapig dolgozott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_213",
+        "Sent": "A kéthetes karibi útra meghívták Pétert, de nála sajnos nincs sikere az ilyen ötleteknek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_214",
+        "Sent": "Imre nem Erzsinek telefonált, hanem Marinak.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_215",
+        "Sent": "János kenyeret vágott a konyhában.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_216",
+        "Sent": "János meggyógyult, ami még az orvosát is meglepte.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_217",
+        "Sent": "Valószínű, hogy sokan akarják látni a tűzijátékot.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_218",
+        "Sent": "Keresztül úszott a folyón.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_219",
+        "Sent": "Ennek az ellenére én is beléptem.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_220",
+        "Sent": "Megettük a sok piros almát, amit Ili hozott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_221",
+        "Sent": "Ez a könyvé az első díj.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_222",
+        "Sent": "Mari sétálni vitt fiatalembert.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_223",
+        "Sent": "A szomszédom betegre verte a feleségét.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_224",
+        "Sent": "Tanár nélkül nem fogod megérteni.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_225",
+        "Sent": "Az ember egyes vallások szerint a halál után újraszületik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_226",
+        "Sent": "A felügyelő gyakran szerencsére könnyen döntésre jutott.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_227",
+        "Sent": "Mindjárt 6 óra tájban megérkezett az első vendég.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_228",
+        "Sent": "Ili családostul jött a rendezvényre.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_229",
+        "Sent": "Nézve az elnökre különösen kínos.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_230",
+        "Sent": "A biztonság kedvéért Artúr három erkélyen meglocsolta a virágokat.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_231",
+        "Sent": "Az új diák nagyon érdeklődik a nyelvészet iránt, de pont nem tudtuk elhívni a mai előadásra.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_232",
+        "Sent": "A vonat érkezett.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_233",
+        "Sent": "Ez a jelentés még nem küldhető el a központnak.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_234",
+        "Sent": "Amelyet tegnap írtam, azt a levelet Péter olvasta el.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_235",
+        "Sent": "Ilinek mindezeken a játékain veszekednek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_236",
+        "Sent": "János megkerítette Péterrel a házat.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_237",
+        "Sent": "Nincs számlám a szerelőtől.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_238",
+        "Sent": "Voltam a két fiamnál.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_239",
+        "Sent": "Ő a húga való Pali.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_240",
+        "Sent": "Az új diák nagyon érdeklődik a nyelvészet iránt, de sajnos nem tudtunk üzenni annak az előadásról.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_241",
+        "Sent": "Mindkét három fiú megérkezett.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_242",
+        "Sent": "Félix legépelte a levelet, és azt azonnal tette.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_243",
+        "Sent": "János tudta, hogy Péter rövidesen megérkezik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_244",
+        "Sent": "Péterék mellett állt János.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_245",
+        "Sent": "Pál gyönyörködik ebben a három szép tájban.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_246",
+        "Sent": "Péter Julival dolgozott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_247",
+        "Sent": "Mária elutazott, de nem repülőgéppel.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_248",
+        "Sent": "A szél betörte az ablakot az öcsémmel.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_249",
+        "Sent": "Könnyű volt a fal átugrása.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_250",
+        "Sent": "Olyan a saroknál találkoztunk.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_251",
+        "Sent": "Majdnem az akarata ellenére vették fel.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_252",
+        "Sent": "János kis híján lekéste a vonatot.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_253",
+        "Sent": "Megismerkedett Erzsivel Imre.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_254",
+        "Sent": "Mari egy hét alatt öt kilót hízott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_255",
+        "Sent": "A két szerző közül ennek a könyve a legjobb.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_256",
+        "Sent": "Ili magasabb éntőlem.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_257",
+        "Sent": "Hogy ki törte be az ablakot, arra nem vagyok kíváncsi.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_258",
+        "Sent": "Az autó az étteremmel szemben maradt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_259",
+        "Sent": "Péter az asztalra helyezett egy könyvet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_260",
+        "Sent": "János okosnak.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_261",
+        "Sent": "Tegnap meglátogatott a tanár való fiam.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_262",
+        "Sent": "Jól esett az ebéd után való megbékélés.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_263",
+        "Sent": "Félix feltehetően legépelte a levelet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_264",
+        "Sent": "Pontosan ide építették.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_265",
+        "Sent": "Imi a feleségével jött a rendezvényre.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_266",
+        "Sent": "A Mária iránt érzett vágy mindennél erősebb.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_267",
+        "Sent": "Egy óra alatt főzök ebédet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_268",
+        "Sent": "Ernőnek a bátyja vásárolt ajándékot, Marinak pedig Jenő és én.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_269",
+        "Sent": "A könyvet három napon át olvastam.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_270",
+        "Sent": "Finom lett a Péter által kanállal hosszasan kavargatott leves.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_271",
+        "Sent": "Kockára Péter vágja a húst pörköltnek.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_272",
+        "Sent": "Eme három Pinket felemelő táncos nagyon erős.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_273",
+        "Sent": "Enikő elhatároz úszni.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_274",
+        "Sent": "Péternek nem szokása a szomszédokkal folytatott társalgás.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_275",
+        "Sent": "Az ebéd után tartott felszólalás hosszú volt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_276",
+        "Sent": "Ez a kabát fogasra akaszthatóbb, mint az.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_277",
+        "Sent": "Mari pedig egy lemezt kapott a névnapjára.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_278",
+        "Sent": "Péter okosnak tartja Jánost.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_279",
+        "Sent": "Péter tegnap óta tisztábban énekel.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_280",
+        "Sent": "A nyomozó szinte elkapta a gyilkost.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_281",
+        "Sent": "Megettük a ma leszedett három szemet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_282",
+        "Sent": "Ili sokat beszélt róla, hogy kirúgták.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_283",
+        "Sent": "Tilos az ásítás.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_284",
+        "Sent": "A hús kamrában tartása nem bölcs dolog.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_285",
+        "Sent": "Kenyér az van.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_286",
+        "Sent": "Egész délután levelet írt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_287",
+        "Sent": "A pályázatot nem írtuk meg Péter nélkül.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_288",
+        "Sent": "Azon túl a folyón túl lakunk.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_289",
+        "Sent": "Megalapozott a Máriától való tartás.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_290",
+        "Sent": "A vizsga két részből tevődik össze.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_291",
+        "Sent": "Ronda lett a békává változott királyfi.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_292",
+        "Sent": "Péter hűséges Évával.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_293",
+        "Sent": "Péternek a székbe történő belebotlása fájdalmas volt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_294",
+        "Sent": "Rögtön ott találsz egy pékséget.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_295",
+        "Sent": "A dinnye magja fekete.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_296",
+        "Sent": "Péter bakot lőtt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_297",
+        "Sent": "Péter üresen törte össze a vázát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_298",
+        "Sent": "Péter laposra kalapálta a lemezt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_299",
+        "Sent": "A Péter hallgat rám.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_300",
+        "Sent": "Megérkezett a magas kreol bőrű barátod.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_301",
+        "Sent": "A nyomozó gyakorlatilag a lakásán dolgozott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_302",
+        "Sent": "Gratuláltunk ahhoz, hogy a fia ledoktorált.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_303",
+        "Sent": "Mi ette meg a magokat?",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_304",
+        "Sent": "Reccsent a padló a lába alatt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_305",
+        "Sent": "Minden sok fiú megérkezett.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_306",
+        "Sent": "Fontos az esélyek számba vétele.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_307",
+        "Sent": "A megbeszélést halasztották.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_308",
+        "Sent": "Faragtam egy új lábat a szék részére.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_309",
+        "Sent": "A fiú által kenhetetlen festék piros.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_310",
+        "Sent": "Ez volt Ili kedvenc Szabolcsi-cikke.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_311",
+        "Sent": "Négy órába telt, amíg végeztünk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_312",
+        "Sent": "Pál széken ül.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_313",
+        "Sent": "Nem hoztál nekem könyvet?",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_314",
+        "Sent": "János megvitatott Katival egy novellát, Ödön pedig Péterrel.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_315",
+        "Sent": "Eleinte csak Péterben bíztam meg, mégis pont az hagyott cserben engem.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_316",
+        "Sent": "Zoli megbetegedett lógni.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_317",
+        "Sent": "A nyomozó nem dolgozott elvileg a lakásán.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_318",
+        "Sent": "Ennek a részére érkezett a csomag.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_319",
+        "Sent": "Az ülésen azt határozták, hogy nem építik fel a vízierőművet.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_320",
+        "Sent": "Ili ama cipőstül ugrott a medencébe.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_321",
+        "Sent": "Ezeken játékokon veszekedtünk.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_322",
+        "Sent": "Ki a régi újságokkal!",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_323",
+        "Sent": "Megvalósul a Jánossal a csapatban terv.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_324",
+        "Sent": "Nagyot dörrent az ágyú.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_325",
+        "Sent": "Domingó énekelte a Bohémélet főszerepét, és remekül.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_326",
+        "Sent": "Rögtön a ház mögé kirakhatod a szemetet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_327",
+        "Sent": "Kati találkozott.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_328",
+        "Sent": "Kivétel nélkül minden fiú eljött.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_329",
+        "Sent": "Tegnapelőtt és Budapesten megbeszélést tartottak a küldöttek.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_330",
+        "Sent": "Az új diák nagyon érdeklődik a nyelvészet iránt, de sajnos nem hívhattuk őt meg az előadásra.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_331",
+        "Sent": "János agyonlőtte sajátmagát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_332",
+        "Sent": "Mindannyian órákon át viháncoltunk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_333",
+        "Sent": "Újra a felügyelő minden kérdésben döntésre jutott.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_334",
+        "Sent": "Az infláció alatta maradt a várakozásoknak.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_335",
+        "Sent": "A ház három órán keresztül robbant fel.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_336",
+        "Sent": "Amellett, hogy igaza van, még udvarias is.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_337",
+        "Sent": "Félix félig gépelte le a levelet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_338",
+        "Sent": "Az ajándék nem neked van.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_339",
+        "Sent": "Péter ebéd után való megfogalmazása meglepett.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_340",
+        "Sent": "Kedvelem ez a fiút.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_341",
+        "Sent": "Péter szilánkokra törte a vázát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_342",
+        "Sent": "Félix legépelte a levelet, és azt újra tette.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_343",
+        "Sent": "Mari nagyon bírja Pétert, de pont tőle tartanak a legtöbben.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_344",
+        "Sent": "Ekkor megpillantottam a csodálatos Tiszát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_345",
+        "Sent": "Van a kalap?",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_346",
+        "Sent": "Bálint mindenkivel szemben ellenséges.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_347",
+        "Sent": "Éppen délben hívtalak.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_348",
+        "Sent": "Sárika nem okosabb, mint a barátnője.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_349",
+        "Sent": "Pétert Annának mutatta be Ödön, de Jenőt Marinak.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_350",
+        "Sent": "Csak Pétert érdekli a nyelvészet, mégis pont iránta nem lelkesedik a tanár.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_351",
+        "Sent": "Szerencsére, a nyomozó általában elkapta a gyilkost.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_352",
+        "Sent": "Mindannyian órákon át csodálkoztunk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_353",
+        "Sent": "A vár ellen indított támadás volt az utolsó.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_354",
+        "Sent": "A váza összetört egy kalapáccsal.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_355",
+        "Sent": "Van kalap.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_356",
+        "Sent": "Bánt ő is, hogy megsértettelek.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_357",
+        "Sent": "Ott van az átadandó Anna.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_358",
+        "Sent": "Nagyjából a ház elé raktam a kukát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_359",
+        "Sent": "Rögtön az ajtónál van egy kapcsoló.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_360",
+        "Sent": "Körülbelül ott van valahol.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_361",
+        "Sent": "Az ablak betört a szél miatt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_362",
+        "Sent": "Éva telefonál.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_363",
+        "Sent": "A fiam tanárnak levő volt.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_364",
+        "Sent": "Jánossal beteg nem fogunk nyerni.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_365",
+        "Sent": "Ili két napig beteg volt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_366",
+        "Sent": "A 20. századra készült el.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_367",
+        "Sent": "Imre találkozott már Máriával.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_368",
+        "Sent": "A könyv a polcon maradt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_369",
+        "Sent": "Az ülésen azt döntötték, hogy nem építik fel a vízierőművet.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_370",
+        "Sent": "Azért valószínű a fénymásolók, hogy el fognak tűnni, mert van már modernebb eszközünk.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_371",
+        "Sent": "Ő leültethetően öltözött.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_372",
+        "Sent": "Andor nem tudja, hogy sikerült a vizsga.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_373",
+        "Sent": "A nyomozó minden gyilkost csak Olívia segítségével Londonban kapott el.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_374",
+        "Sent": "Csak Péter fölött járt el az idő, mégis pont őneki nem kell bot.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_375",
+        "Sent": "A regényben ki vesz el kit?",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_376",
+        "Sent": "A szék az ágynál áll.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_377",
+        "Sent": "Péter élvezi és ismeri a jó zenét.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_378",
+        "Sent": "A fénymásoló teljesen biztos, hogy el fog tűnni.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_379",
+        "Sent": "Jó érzés volt a Pestre érkezés.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_380",
+        "Sent": "Átlátok az orvosokon.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_381",
+        "Sent": "A te kalapod, amelyet elvesztettél, a kukában van.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_382",
+        "Sent": "János felért.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_383",
+        "Sent": "Őnekik csak a kalapjuk veszett el.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_384",
+        "Sent": "Kaptam egy új ruhát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_385",
+        "Sent": "Az embernek nem sikerülhet minden.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_386",
+        "Sent": "A hús puhára főtt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_387",
+        "Sent": "Ili jövő hétig dolgozik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_388",
+        "Sent": "Elmentem kenyérért a boltba.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_389",
+        "Sent": "Nem tudja, hogy meddig él az ember.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_390",
+        "Sent": "Jó ötlet volt Péter meghívása.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_391",
+        "Sent": "Péter elkezdte a könyvből való tanulást.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_392",
+        "Sent": "a fiú barátjának a kalapja",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_393",
+        "Sent": "Csak Péter kedveli Marit, mégis pont őbenne csalódott a lány.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_394",
+        "Sent": "Egy pillanat alatt győzött.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_395",
+        "Sent": "A kutya megharapta Erzsit.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_396",
+        "Sent": "Pál számlát olvas.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_397",
+        "Sent": "Nehezek a megmérető képességek.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_398",
+        "Sent": "Csak az új diákot érdekli a mondattan, de sajnos nem hívtuk el az előadásra.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_399",
+        "Sent": "Ő Péternek a fia.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_400",
+        "Sent": "Félix okosan legépelte a levelet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_401",
+        "Sent": "Megetetem az állatokat.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_402",
+        "Sent": "János nem az általam kért könyvet vette meg a születésnapomra.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_403",
+        "Sent": "A parázs felizzott a huzattól.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_404",
+        "Sent": "Péternek nagyon tetszik az új szintaxis-könyv, de éppen őt vártuk mi is.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_405",
+        "Sent": "Ez a dolgozó helyett én mentem el.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_406",
+        "Sent": "A vad nyoma még látszik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_407",
+        "Sent": "A táj Pétert megdöbbentően szép volt.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_408",
+        "Sent": "Erzsi Imrétől a születésnapjára nyakláncot kapott, és Mari szintén.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_409",
+        "Sent": "János nem dobta be a törülközőt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_410",
+        "Sent": "Valószínűleg a nyomozó tegnap elkapta a gyilkost.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_411",
+        "Sent": "Ez a férfi falatozó.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_412",
+        "Sent": "A fiam tanárnak van.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_413",
+        "Sent": "Szokta kóstolgatni a lekvárt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_414",
+        "Sent": "A fiúk sakkoznak a lányokkal.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_415",
+        "Sent": "Szárazra törültem a poharat.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_416",
+        "Sent": "Engem érdekel Péter, de azt nem érdeklem én.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_417",
+        "Sent": "A gyerekek megoldották a feladatot.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_418",
+        "Sent": "A te hajóid kékek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_419",
+        "Sent": "János estében is eltalálta a labdát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_420",
+        "Sent": "János a farmeres fiúkkal vitázott, Edit pedig a szakállasakkal veszekedett.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_421",
+        "Sent": "Mari egyenesen felháborodott a feltételezéseken.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_422",
+        "Sent": "Vendégek érkeztek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_423",
+        "Sent": "Péternek a minden könyve elveszett.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_424",
+        "Sent": "Mari bánatában beteg volt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_425",
+        "Sent": "János kihegyezte a ceruzát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_426",
+        "Sent": "Kati annyit ugrált, hogy elfáradt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_427",
+        "Sent": "Ez a könyv olvashatatlan.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_428",
+        "Sent": "Tetszett a fiúnak ez a cikke.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_429",
+        "Sent": "Beszélhetnénk arról a két zöld kabátról és azokról a kék kalapokról?",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_430",
+        "Sent": "Egész nap a könyvedet olvasta.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_431",
+        "Sent": "Pál eltette a könyvet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_432",
+        "Sent": "A szél betörte az ablakot.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_433",
+        "Sent": "A főnővér érzéstelenít.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_434",
+        "Sent": "Péter lefutotta a maratont.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_435",
+        "Sent": "Én szeretlek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_436",
+        "Sent": "János két kézzel fogta a viaszt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_437",
+        "Sent": "Pál kéz alól vette a TV-t.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_438",
+        "Sent": "Ili egy sarokig fut.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_439",
+        "Sent": "János tegnap részegen hazakísérte a vendégeket.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_440",
+        "Sent": "Errefelé nem járnak biciklin.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_441",
+        "Sent": "A búza learatódott a brigádtól.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_442",
+        "Sent": "E két cikk igen érdekes.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_443",
+        "Sent": "Anna a város mellé költözött.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_444",
+        "Sent": "Kati és Béla egyidősek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_445",
+        "Sent": "A fiú a festéket kenve hazament.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_446",
+        "Sent": "Éppen éjfél óta vagyok itt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_447",
+        "Sent": "Szeretnélek békává változtatni.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_448",
+        "Sent": "Az állítólagos bankár valójában csak egy taxisofőr volt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_449",
+        "Sent": "Félix legépelte a levelet, és azt megint tette.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_450",
+        "Sent": "A lányokat meglepte János önmagukról való véleménye.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_451",
+        "Sent": "Ez az autó egy hét alatt két liter olajat fogyaszt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_452",
+        "Sent": "Péterről - ugyanis ragyogó teljesítményt nyújtott - mindenki csak áradozott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_453",
+        "Sent": "Vettem egy kabátot a részére.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_454",
+        "Sent": "Ez a csomag Jánosnak feladott.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_455",
+        "Sent": "Éva volt a legokosabb közöttünk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_456",
+        "Sent": "Vepsze adatközlők híján nem lehet vepsze nyelvtant írni.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_457",
+        "Sent": "A feldühödött összegyűlt 120 pécsi egyetemi hallgató az elnök leváltását követelte.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_458",
+        "Sent": "Péter hasonlít Marira.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_459",
+        "Sent": "János bánatában mindenkivel összeveszett.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_460",
+        "Sent": "Az ajándék neked van.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_461",
+        "Sent": "Odáig jutott, hogy le kellett mondania az örökségről.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_462",
+        "Sent": "A kicsi nem érdekel.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_463",
+        "Sent": "Tegnap valószínűleg a nyomozó elkapta a gyilkost.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_464",
+        "Sent": "Egy e-jegy többször nyomtatható.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_465",
+        "Sent": "A projekt nemzetközi együttműködés révén valósul meg.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_466",
+        "Sent": "Jól jött a nyert pénz.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_467",
+        "Sent": "Egy órán belül víz szivárgott a falból.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_468",
+        "Sent": "Ott van egy borotválatlan arc.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_469",
+        "Sent": "A fiúk felcsaptak szakácsnak.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_470",
+        "Sent": "A kutya rókalyukból hozta ezt a kölyköt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_471",
+        "Sent": "A játékban az asztal alá fogadtam.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_472",
+        "Sent": "Bosszankodott azon, hogy nem értik meg.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_473",
+        "Sent": "Több órán át énekeltem, amikor megszólalt a telefon.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_474",
+        "Sent": "Péter és teközötted állok.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_475",
+        "Sent": "János hajszál híján lekéste a vonatot.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_476",
+        "Sent": "Péter piszkosra törte a vázát.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_477",
+        "Sent": "Péter nagyon érdeklődik a nyelvészet iránt, de pont őneki nem tudtunk üzenni az előadásról.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_478",
+        "Sent": "Péterről, Mariról, és Jánosról vagy Annáról hallottam.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_479",
+        "Sent": "Mari verseket olvasott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_480",
+        "Sent": "Kettőbe hajtottam a papírt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_481",
+        "Sent": "János és Mari együtt mennek moziba.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_482",
+        "Sent": "Számíthattok őrá, hogy segíteni fogok.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_483",
+        "Sent": "Gyakran mászott fel a fára, amikor megszólalt a telefon.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_484",
+        "Sent": "János nem németül olvasta a regényt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_485",
+        "Sent": "Fúj a szél és esik az eső.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_486",
+        "Sent": "Péter a tévéhíradót nézte, pedig János pedig az Esti Magazint hallgatta.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_487",
+        "Sent": "És abban biztos vagy?",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_488",
+        "Sent": "Ili akként jutalmazta a beosztottakat, ahogy teljesítettek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_489",
+        "Sent": "Pontosan 2 hét múlva kezdődik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_490",
+        "Sent": "A gyerekek csapatonként két feladatot kapnak.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_491",
+        "Sent": "Mari újraszerette Pétert.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_492",
+        "Sent": "Ili átsétált a kertből.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_493",
+        "Sent": "Be kell, hogy csak János menjen.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_494",
+        "Sent": "János felébredt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_495",
+        "Sent": "Éva éppen tette fel a könyvet a polcra, amikor megfájdult a dereka.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_496",
+        "Sent": "A kalauznak adtuk oda a jegy árát, a hordárnak viszont a borravalót.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_497",
+        "Sent": "A fiúk találkozása Pesten ma is beszédtéma.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_498",
+        "Sent": "A labda begurult.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_499",
+        "Sent": "Ili azzá vált, aki akart lenni.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_500",
+        "Sent": "Faragtam egy új lábat a kalóznak.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_501",
+        "Sent": "Dolgozott már nálunk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_502",
+        "Sent": "János a kertben dolgozik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_503",
+        "Sent": "János figyelmeztette Katit a veszélyre.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_504",
+        "Sent": "Éva jön le ott a lépcsőn, nem pedig Kati.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_505",
+        "Sent": "Az új ügyfeleknek Olívia keringőt táncolt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_506",
+        "Sent": "Fürdés után szárazra törülköztem.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_507",
+        "Sent": "Azok a fiadék?",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_508",
+        "Sent": "Csak egy diákot érdekel a nyelvészet, mégis éppen bukott meg.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_509",
+        "Sent": "Erzsi főzött ebédet Imrének.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_510",
+        "Sent": "A felügyelő nagyon fáradt el.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_511",
+        "Sent": "A felügyelő könnyen döntésre jutott?",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_512",
+        "Sent": "Éva dolgozott a konyhában.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_513",
+        "Sent": "Éva gondolt a mamára.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_514",
+        "Sent": "Jánosnak a könyve.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_515",
+        "Sent": "Hiba volt Péter verése laposra.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_516",
+        "Sent": "A Péter minden könyve elveszett.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_517",
+        "Sent": "Piri nagyon ügyesen bánik az ollóval.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_518",
+        "Sent": "Segítség nélkül nem fogod megérteni.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_519",
+        "Sent": "Kati együttmaradt Péterrel.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_520",
+        "Sent": "Péter megverését nem helyeslem.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_521",
+        "Sent": "Feri részeg.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_522",
+        "Sent": "Feri utánuk futott a rendőröknek.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_523",
+        "Sent": "Ha bejönnek, megnézem őket.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_524",
+        "Sent": "Imre rosszul válaszolta meg a kérdést.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_525",
+        "Sent": "János Marival együtt megy moziba.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_526",
+        "Sent": "Péter nyugodt ember létére János elfelejtette megnézni az óráját.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_527",
+        "Sent": "Péternek az ebéd után való felszólalása értelmetlen volt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_528",
+        "Sent": "János, mivel félt a kutyától, nagy kerülőt tett.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_529",
+        "Sent": "A felügyelő nem fáradt el nagyon.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_530",
+        "Sent": "A Pétert Annának bemutató Ödön, és a Jenőt Marinak bemutató Ödön a testvérem.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_531",
+        "Sent": "Az új diák nagyon érdeklődik a nyelvészet iránt, de sajnos nem tudtunk üzenni neki az előadásról.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_532",
+        "Sent": "Célt ért a Péterhez intézett prédikáció.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_533",
+        "Sent": "A szomszéd éppen a Raid mellett kardoskodott, de pont attól lettünk rosszul.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_534",
+        "Sent": "Éppen az iskolával szemben lakunk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_535",
+        "Sent": "Karcsi nap nap után való arra való törekvéséről, hogy elmondja az igazat, tudtunk.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_536",
+        "Sent": "Ezek túl hosszúnak tűnnek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_537",
+        "Sent": "A baba januárban született.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_538",
+        "Sent": "Arra meg ki a franc szavazott?",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_539",
+        "Sent": "Anna és egy tyúklábat a konyhában főzött meg.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_540",
+        "Sent": "Majdnem Pál nélkül indultam el.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_541",
+        "Sent": "Ki-be.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_542",
+        "Sent": "Péter németül olvasta a regényt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_543",
+        "Sent": "János adott valakinek csokoládét, de nem Jenőnek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_544",
+        "Sent": "Marinál bevágódott Péter, de nála nem vágódott be ő.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_545",
+        "Sent": "Ott vannak a felugrott lengyelek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_546",
+        "Sent": "Géza összeköltözött Adrienn-nel.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_547",
+        "Sent": "A festék a falra kenve hamar megszáradt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_548",
+        "Sent": "A Pinket felemelő három táncos nagyon erős.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_549",
+        "Sent": "A fiam bebizonyosodott.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_550",
+        "Sent": "Az nem kell, hogy Pali elmenjen.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_551",
+        "Sent": "Bevált az új rendszer.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_552",
+        "Sent": "Péter katonasága meglepett.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_553",
+        "Sent": "Péter akar.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_554",
+        "Sent": "Abban a házban, ahol kísértetek járnak, senki sem mer lakni.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_555",
+        "Sent": "Egy sok fiú megérkezett.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_556",
+        "Sent": "A fénymásolók valószínűek, hogy el fognak tűnni.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_557",
+        "Sent": "Nem hoztál nekem könyveket?",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_558",
+        "Sent": "Ez a könyvek elvesztek.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_559",
+        "Sent": "Csak a Raid-et tartják hatékonynak a szúnyogok ellen, de Földváron most hiány van abból.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_560",
+        "Sent": "Még mindig telefonál.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_561",
+        "Sent": "Fogadkozott, hogy megjavul.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_562",
+        "Sent": "Sokan arra emlékeztek az osztályban, hogy Gazsi összetörte a virágcserepeket.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_563",
+        "Sent": "Viszonteladóknak kedvezményt biztosítunk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_564",
+        "Sent": "Egész nap tépte szét a leveledet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_565",
+        "Sent": "Péter utálja a Raid-et, de pont őt ajánlotta a szomszéd.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_566",
+        "Sent": "A fiam gyakran ócsárolja a Raid-et, pedig rá annyira esküszik a szomszéd.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_567",
+        "Sent": "Ez a doboz kinyitható.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_568",
+        "Sent": "Szétfelvételizted az agyadat?",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_569",
+        "Sent": "Szerintem pont ő okozza majd a vesztét, hogy egy ilyen ügybe keveredik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_570",
+        "Sent": "Mari is játszik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_571",
+        "Sent": "Mari a testvére mellé táncolt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_572",
+        "Sent": "Port törölt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_573",
+        "Sent": "Vártuk a remény megcsillanását.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_574",
+        "Sent": "A tálról legurult egy alma.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_575",
+        "Sent": "Én látok mellettem egy macskát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_576",
+        "Sent": "Ennek által értettem meg én is.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_577",
+        "Sent": "A földek eláradtak a víztől.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_578",
+        "Sent": "Ez a trükk méltó hozzád.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_579",
+        "Sent": "Imrét nem vette észre egy ember sem.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_580",
+        "Sent": "A karácsony ótai várakozás kimerített.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_581",
+        "Sent": "Péter nagyon érdeklődik a nyelvészet iránt, de pont nem ér rá pénteken.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_582",
+        "Sent": "Bal oldalra állnak az elvett lányok.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_583",
+        "Sent": "Az meg kicsoda?",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_584",
+        "Sent": "Azokat a karambolos autókat, amelyeket rendesen megjavítottak, sem veszik meg az emberek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_585",
+        "Sent": "Eltűnt a Péter kalapja.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_586",
+        "Sent": "Egy levél elvitette Pétert Szegedre.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_587",
+        "Sent": "Ezen nemes vármegyén által jutottunk hozzá.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_588",
+        "Sent": "Őt én is bánom, hogy megsértettelek.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_589",
+        "Sent": "Gyakori a rokoni kapcsolatok révén történő érvényesülés.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_590",
+        "Sent": "Az elnökre és az osztályvezetőre nézve is kínos.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_591",
+        "Sent": "Péter belebetegedett a pofozásba.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_592",
+        "Sent": "Mind játékokon veszekszel.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_593",
+        "Sent": "Azért jött ilyen későn, hogy elkerülje a torlódást.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_594",
+        "Sent": "Pécsett megcsókoltam Ilit.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_595",
+        "Sent": "Énekesben is csalódtam már keservesen.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_596",
+        "Sent": "Megparancsolták, hogy a hajtók fogják körbe a tisztást.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_597",
+        "Sent": "A vizsgától való félelem természetes.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_598",
+        "Sent": "Félix azonnal legépelte a levelet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_599",
+        "Sent": "A labda a ház mögé gurult.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_600",
+        "Sent": "Több órán át terítette szét a szilvát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_601",
+        "Sent": "Érte jött a kopott kabátú apa.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_602",
+        "Sent": "Feri hős.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_603",
+        "Sent": "Fél órán belül az emailt kaptam.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_604",
+        "Sent": "Még azt sem mindenki tudta, hogy Aranka férjhez ment.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_605",
+        "Sent": "Egyenesen az erdőben mentünk.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_606",
+        "Sent": "Ahol a két folyó találkozik, már sok kincset találtak.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_607",
+        "Sent": "Péter pirosra festette a rácsot.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_608",
+        "Sent": "Lili a kerítésen át tette a létrát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_609",
+        "Sent": "Két méterrel a föld alatt indul a folyosó.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_610",
+        "Sent": "Vicces a tyúkok szétkergetése.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_611",
+        "Sent": "A vadász zsákmányul ejt egy nyulat.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_612",
+        "Sent": "A táska a fiókba maradt.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_613",
+        "Sent": "Találkoztam az építész barátoddal.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_614",
+        "Sent": "A cipelt holmik tarkasága egyszerűen lenyűgözte Jánost.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_615",
+        "Sent": "Piroska az újságkihordótól értesült a legújabb hírekről, Vali meg a házmestertől.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_616",
+        "Sent": "10 méterre a háztól parkoltuk le az autót.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_617",
+        "Sent": "Vidáman énekeltünk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_618",
+        "Sent": "A múlt hét során beszéltem mindenkivel.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_619",
+        "Sent": "Ödön akadozva, csendesen, viszont fölvillanyozó hatással beszélt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_620",
+        "Sent": "A szerencsétlen nem tudta, hogy Gyula elvesztette a lakáskulcsot.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_621",
+        "Sent": "Csak a Raid-et tartják hatékonynak a szúnyogok ellen, de Földváron most nem kapható az.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_622",
+        "Sent": "Csak egy diákot érdekel a nyelvészet, mégis pont benne csalódott a tanár.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_623",
+        "Sent": "A kapitány bizakodva teljesítette a feladatot.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_624",
+        "Sent": "Ezt Ilinek vettem.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_625",
+        "Sent": "Bálint a kézbe vesz egy tollat.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_626",
+        "Sent": "Az biztos, hogy a vonat már elindult.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_627",
+        "Sent": "Péter egész délután beszélgetett.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_628",
+        "Sent": "Kati az asztal alá tette a táskát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_629",
+        "Sent": "Juli a betegsége végett nem tudott iskolába menni.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_630",
+        "Sent": "Péter betegre dolgozta magát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_631",
+        "Sent": "Tegnap találkoztam egy leendő gyárigazgatóval.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_632",
+        "Sent": "Annak, hogy a kormány megbukjon, van elősegítése.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_633",
+        "Sent": "Mari az asztalok között tette a székeket.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_634",
+        "Sent": "Több órán át hordták fel a szenet a pincéből.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_635",
+        "Sent": "Pál a kórházban van.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_636",
+        "Sent": "Pont erről beszéltem én is a múltkor.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_637",
+        "Sent": "Minna azt a tanácsot adta, hogy utazzunk el.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_638",
+        "Sent": "A kapitány nem találta el biztosan a céltábla közepét.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_639",
+        "Sent": "Őtőle én is tartok, hogy megsértettelek.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_640",
+        "Sent": "Egy órán át két vödör víz szivárgott a falból.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_641",
+        "Sent": "Amellé, hogy megírok egy könyvet, más munkát nem vállalok.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_642",
+        "Sent": "Olívia a nyomozás lezárása végett felhívta a felügyelőt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_643",
+        "Sent": "A kéthetes karibi útra meghívták Pétert, de ő sajnos csak a karrierját hajtja.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_644",
+        "Sent": "Öt éven át előfordult, hogy dolgozott nálunk.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_645",
+        "Sent": "Éva boldognak látszik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_646",
+        "Sent": "A repülő magasan a hegyek fölé repült.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_647",
+        "Sent": "Téged láttok a képen.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_648",
+        "Sent": "Ott egy szép nagy ló.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_649",
+        "Sent": "Péter lefutotta a maratoni távot.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_650",
+        "Sent": "Ki mivel olvasta a könyvet, ami foglalkozik?",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_651",
+        "Sent": "Az ebéd után való összeveszés fájdalmas volt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_652",
+        "Sent": "János a szénát átvitte a szigetre.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_653",
+        "Sent": "Péter egy autót szerelt egész délután.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_654",
+        "Sent": "Több órán át terítette szét a betont.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_655",
+        "Sent": "Ili sofőrnél van.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_656",
+        "Sent": "János szorgalmasan dolgozik a munkahelyén, ha Péter otthon van.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_657",
+        "Sent": "Nincs Péter vendége.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_658",
+        "Sent": "6 óra 10 perc táján indul az első vonat.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_659",
+        "Sent": "A nyomozó a faluban a polgármester pincéjében elkapta a gyilkost.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_660",
+        "Sent": "Anna idebent maradt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_661",
+        "Sent": "A fa alatt majdnem ülünk.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_662",
+        "Sent": "A víz halkan csobogott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_663",
+        "Sent": "Hat óráig visszajövök.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_664",
+        "Sent": "A szemét széthordható.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_665",
+        "Sent": "Laci kijárta az iskolát azóta, amikor megnősült.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_666",
+        "Sent": "Osontam ki óráról úgy, hogy szembejött a professzor.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_667",
+        "Sent": "Láttam már a Zeneakadémiát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_668",
+        "Sent": "Azért kellenek ezek a gépek, hogy megoldjuk a problémáinkat.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_669",
+        "Sent": "Péter betegen meglátogatta Marit.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_670",
+        "Sent": "Ennek a táján találkoztunk.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_671",
+        "Sent": "E híján a könyv híján nem sikerült tanulnom a vizsgára.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_672",
+        "Sent": "Ott van két méterre a háztól.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_673",
+        "Sent": "Elolvasom mindkét érdekes cikket.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_674",
+        "Sent": "Eleinte Péterre számítottunk leginkább, de végül pont abból lett nagyon elegünk.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_675",
+        "Sent": "A tea elkészült, amikor akkor érkezett meg Eszter.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_676",
+        "Sent": "Palinak nem kell, hogy elmenjél.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_677",
+        "Sent": "Péter megütközött a törzs szokásain.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_678",
+        "Sent": "Csak az új diákot érdekli a mondattan, de őt sajnos nem hívtuk el az előadásra.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_679",
+        "Sent": "Merre jártatok?",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_680",
+        "Sent": "Messze a ház mögött lakik egy férfi.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_681",
+        "Sent": "János festett egy képet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_682",
+        "Sent": "Most olvasom a Péter által megírt jelentést.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_683",
+        "Sent": "Ili befelé sétált.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_684",
+        "Sent": "Ili félig elolvasta a könyvet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_685",
+        "Sent": "Sokan úgy emlékeztek az osztályban, hogy Gazsi összetörte a virágcserepeket.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_686",
+        "Sent": "Péter ügyesen kezeli a körzőt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_687",
+        "Sent": "A fiam egy tanár volt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_688",
+        "Sent": "Szerepet cseréltek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_689",
+        "Sent": "Baranyában sok macska van.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_690",
+        "Sent": "Írtam érted egy dalt.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_691",
+        "Sent": "Olyan 10 óra tájban érkeztünk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_692",
+        "Sent": "A felügyelő döntésre jutott, és azt általában tette.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_693",
+        "Sent": "János havonként úszni jár.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_694",
+        "Sent": "Orvos szeretném, ha János lenne.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_695",
+        "Sent": "A busz éppen a kapu előtt áll meg.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_696",
+        "Sent": "Ennek számára hoztam a vizet.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_697",
+        "Sent": "Tojásért megyek a szomszédba.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_698",
+        "Sent": "Érkezett a részemre egy csomag.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_699",
+        "Sent": "Ili havonta eszik egy almát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_700",
+        "Sent": "Édesanyám puhára főz egy krumplit.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_701",
+        "Sent": "János tegnap elküldte a különlenyomatot Andrásnak, Péter pedig Marinak.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_702",
+        "Sent": "Péter elvette Zsuzsát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_703",
+        "Sent": "Pál nekiment a szék.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_704",
+        "Sent": "Péter a mámorosan ült be a kocsiba.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_705",
+        "Sent": "Kati mondott Péternek egy viccet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_706",
+        "Sent": "János azt, hogy a nyelvészet unalmas, sohasem tagadta.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_707",
+        "Sent": "Kellene nagyon, hogy elolvassa János a könyvet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_708",
+        "Sent": "Minden ház ég.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_709",
+        "Sent": "Pontosan fenn a padláson, egy üres dobozt se találtunk.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_710",
+        "Sent": "Bemutatom a két szeptembertől itt dolgozó mindenkihez kedves új tanszéki titkárnő.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_711",
+        "Sent": "Ági a térdére esik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_712",
+        "Sent": "Az asztal mellé János ült le.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_713",
+        "Sent": "Nem tagadta azt sohasem, hogy a nyelvészet unalmas.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_714",
+        "Sent": "Beesteledve betértünk egy fogadóba.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_715",
+        "Sent": "Van könyvem Krúdytól.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_716",
+        "Sent": "A feldühödött 120 összegyűlt pécsi egyetemi hallgató  az elnök leváltását követelte.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_717",
+        "Sent": "Pali az asztalra tette a könyvet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_718",
+        "Sent": "A huzat felizzította a parazsat.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_719",
+        "Sent": "Tartok, hogy még mindig beteg.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_720",
+        "Sent": "Azt mondták, itt voltatok, de én nem láttalak téged.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_721",
+        "Sent": "Jenő nem tudja, menjen-e vagy ne menjen.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_722",
+        "Sent": "Bence egy halat fogott ki.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_723",
+        "Sent": "János írt egy verset.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_724",
+        "Sent": "Nagyjából a házzal szemben találod a kukát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_725",
+        "Sent": "Az elnökre nézveről beszélgettünk.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_726",
+        "Sent": "A polcon vannak az olvasóknak adható könyvek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_727",
+        "Sent": "Kati a házmesterrel, és Ica veszett össze tegnap a villanyszerelővel.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_728",
+        "Sent": "A rendelet holnap hirdettetik ki.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_729",
+        "Sent": "Következésképpen a felügyelő minden kérdésben döntésre jutott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_730",
+        "Sent": "A sütemény szénné hevert az asztalon.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_731",
+        "Sent": "Tegnap úgy tűnt Palinak, hogy sikerült a vizsga.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_732",
+        "Sent": "Imre nem olvas könyvet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_733",
+        "Sent": "Ez a dolgozó nélkül nem jutottunk semmire.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_734",
+        "Sent": "Fizetek ezért a könyvért.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_735",
+        "Sent": "Minden kollégámat többször is meghívtam.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_736",
+        "Sent": "Messze kinn lakik egy férfi.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_737",
+        "Sent": "Péter távol való léte sok gondot okoz.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_738",
+        "Sent": "Érdekes, hogy az új autóm máris elromlott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_739",
+        "Sent": "Péternek eltűnt a kalap.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_740",
+        "Sent": "A kávét én viszem.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_741",
+        "Sent": "Az én apámnak szép kabátja van.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_742",
+        "Sent": "A Mari által olvasott könyv izgalmasnak tűnik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_743",
+        "Sent": "Mindannyian órákon át malmoztunk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_744",
+        "Sent": "Domingó minden nap énekelt, és a Metropolitan egész közönsége tanú rá, hogy remekül.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_745",
+        "Sent": "A fiaim tanárok voltak.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_746",
+        "Sent": "Mondd meg minden képzési helyről, hogy ki felvételizett oda!",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_747",
+        "Sent": "A tanár megíratta a diákokkal a tesztet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_748",
+        "Sent": "Péter ő kalapja elveszett.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_749",
+        "Sent": "Bár sokat ígértek az ékszerért, az nem értékes.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_750",
+        "Sent": "A kéthetes karibi útra meghívták a szomszéd srácot, de azt sajnos csak a karrierje érdekli.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_751",
+        "Sent": "A vizsgához képest jól vagyok.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_752",
+        "Sent": "A Pinket felemelő e öt táncos mindegyike nő.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_753",
+        "Sent": "A tanár figyelmeztette a gyerekeket a veszélyre.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_754",
+        "Sent": "Zörög a haraszt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_755",
+        "Sent": "János tegnap a villamoson elmesélt egy viccet Katinak, Ernő meg Piroskának.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_756",
+        "Sent": "Körülbelül a házzal szemben találod a kukát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_757",
+        "Sent": "Az ülésen úgy határoztak, hogy nem építik fel a vízierőművet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_758",
+        "Sent": "Jól a kérdést Imre megválaszolta.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_759",
+        "Sent": "Artúr három erkélyen meglocsolta a biztonság kedvéért a virágokat.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_760",
+        "Sent": "A művész aláírása közvetlenül a vonalon felül látható.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_761",
+        "Sent": "Ennek részére érkezett a csomag.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_762",
+        "Sent": "A kalauznak adtuk oda a jegy árát, a hordárnak meg a borravalót.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_763",
+        "Sent": "Az igazgató egyenesen kimondta a véleményét.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_764",
+        "Sent": "A Raid-et hatékonynak tartják a szúnyogok ellen, de azt sajnos most nem lehet kapni.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_765",
+        "Sent": "A nyomozó szinte kapta el a gyilkost.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_766",
+        "Sent": "Júliusban Jugoszláviába megyünk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_767",
+        "Sent": "Az ablak betört a szélben.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_768",
+        "Sent": "Ott egy szép nagy szürke ló.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_769",
+        "Sent": "A lány, aki elsőként adta be a dolgozatát, okos volt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_770",
+        "Sent": "Ilinek ezeken játékain veszekednek.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_771",
+        "Sent": "Pisti dolgozik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_772",
+        "Sent": "Ez a város nagyon megfelel ennek a fafajnak.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_773",
+        "Sent": "Az elnök tudomást szerzett a tervről.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_774",
+        "Sent": "A mi révünkön ismerték meg egymást.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_775",
+        "Sent": "János egy konyhakést vitt magával borotválkozni.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_776",
+        "Sent": "A felügyelő szerencsére döntésre jutott?",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_777",
+        "Sent": "Marinak tetszik Péter, de neki nem tetszik a lány.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_778",
+        "Sent": "Én és Csilla mögöttem gyere!",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_779",
+        "Sent": "A felügyelő gyakran csak gyakorlati kérdésekben jutott döntésre.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_780",
+        "Sent": "Ekkor megpillantottam Máltát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_781",
+        "Sent": "Mari megszerette Pétert.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_782",
+        "Sent": "Unalmasak a tervről való beszédek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_783",
+        "Sent": "Péter kapott egy labdát focizni.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_784",
+        "Sent": "Péter álmosra dolgozta magát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_785",
+        "Sent": "Benne biztos vagy?",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_786",
+        "Sent": "Fontos manapság a megértésre való képesség.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_787",
+        "Sent": "A szomszéd éppen a Raid mellett kardoskodott, végül mégis éppen benne csalódtunk.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_788",
+        "Sent": "Jánost és nagyon kedvesen dicsérték meg.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_789",
+        "Sent": "Mari Péterrel papucsban táncoltatta el a toborzót.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_790",
+        "Sent": "Jó lenne tanárnak lenni.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_791",
+        "Sent": "János nem a kerítést festette be.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_792",
+        "Sent": "Csak Péteréknek tetszik a mondattan, de a pénteki előadásról mégis hiányoztak ők.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_793",
+        "Sent": "A kézzel való asztalra helyezés miatt nem tört össze.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_794",
+        "Sent": "Csak Péternek tetszik a mondattan, de pénteken mégis hiába vártunk őrá.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_795",
+        "Sent": "A hinták pirosra festése butaság volt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_796",
+        "Sent": "Láttad a gyűrűdet?",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_797",
+        "Sent": "Egy nap alatt lomtalanították az utcát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_798",
+        "Sent": "Minna azt a tanácsot adta, hogy utazzunk el.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_799",
+        "Sent": "Pofont kapott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_800",
+        "Sent": "Mi könyvet írunk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_801",
+        "Sent": "Péter nagyon érdeklődik a nyelvészet iránt, de őt sajnos nem tudtuk elhívni az előadásra.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_802",
+        "Sent": "Mari nagyon bírja Pétert, de pont a legfurább alak a környéken.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_803",
+        "Sent": "A fiam tanárnak való volt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_804",
+        "Sent": "Van egy-egy füzet a könyv előtt és a könyv mögött.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_805",
+        "Sent": "Péter egy hasonlított.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_806",
+        "Sent": "Ott van a levelet megkeresendő János.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_807",
+        "Sent": "Tehát jó idő van, ingujjban járnak az emberek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_808",
+        "Sent": "Imre jól megválaszolta a kérdést.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_809",
+        "Sent": "Remekül ugyan, de Domingó minden nap énekelt, ezért a fellépéssorozat végére berekedt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_810",
+        "Sent": "Lemaradtam a hírekről.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_811",
+        "Sent": "A Pinket felemelő e három táncos mindegyike nő.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_812",
+        "Sent": "Ez túlmegy minden határon.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_813",
+        "Sent": "Megerősödik a gyerek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_814",
+        "Sent": "A könyv töredezett kötése nagyon bosszantó.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_815",
+        "Sent": "Nem valószínű, hogy elkésünk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_816",
+        "Sent": "Büszke volt arra, hogy elsőként ért a célba.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_817",
+        "Sent": "Az autó túlment a folyón.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_818",
+        "Sent": "Erzsit megharapta a kutya.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_819",
+        "Sent": "Táncoltam már vele.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_820",
+        "Sent": "A dühös autós rászólt a gyalogosra.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_821",
+        "Sent": "Pál fát vág.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_822",
+        "Sent": "Nem úgy tűnt, hogy sikerült a vizsga.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_823",
+        "Sent": "Olívia alig vizsgálta meg az iratot.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_824",
+        "Sent": "Mari egy csipesszel vette a bélyegeket.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_825",
+        "Sent": "1900-tól kezdve pontosan alkalmazzák a módszert.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_826",
+        "Sent": "Ili évente eszik egy almát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_827",
+        "Sent": "Senki, aki ismeri őt, nem mondaná, hogy Dr. Kovács jó orvos.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_828",
+        "Sent": "Pétert megzavarta egy kiáltás.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_829",
+        "Sent": "Az a nyolc híd, amely Budapestnél íveli át a Dunát, alig tud megbirkózni a hatalmas forgalommal.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_830",
+        "Sent": "A kisfiút Mari látogatta meg itt a kórházban.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_831",
+        "Sent": "Paliék egész este pálinkát borozgattak.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_832",
+        "Sent": "Melyik a leendő építész barátod?",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_833",
+        "Sent": "A ti kalapjaitok zöldek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_834",
+        "Sent": "A kölcsön felvétele szerencse volt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_835",
+        "Sent": "Az előadás kezdődik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_836",
+        "Sent": "Az autó közelment a biciklihez.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_837",
+        "Sent": "A nyomozó könnyedén önként elkapta a gyilkost.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_838",
+        "Sent": "Gyula számított, amit ígértél.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_839",
+        "Sent": "Olyan a saroktól indulok.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_840",
+        "Sent": "A mosószer kifehérítette a szoknyát.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_841",
+        "Sent": "Valahányszor énekeltünk, mindig ideges lett.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_842",
+        "Sent": "Ez által értettem meg én is.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_843",
+        "Sent": "Ez szemét volt tőled.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_844",
+        "Sent": "Arra a véleményre, hogy a kormány megbukott, már többen is utaltak.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_845",
+        "Sent": "A képen Mari fia angyal.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_846",
+        "Sent": "Péter Szovjetunióban tanuló barátai.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_847",
+        "Sent": "Pontosan a régi házig mentem.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_848",
+        "Sent": "A bomba a házhoz robbant.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_849",
+        "Sent": "Piroska az újságkihordótól, holott Vali az házmestertől tudta meg a legfontosabb híreket.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_850",
+        "Sent": "Péter beállt negyediknek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_851",
+        "Sent": "A vadász rálőtt a nyúlra.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_852",
+        "Sent": "A felügyelő szerencsére döntésre jutott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_853",
+        "Sent": "Azt Andrea gondolta, hogy megnyerem a versenyt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_854",
+        "Sent": "A szorgalmasak kirándulni mennek.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_855",
+        "Sent": "Megvesszük azt a két zöld kabátot és ezeket a kék kalapokat?",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_856",
+        "Sent": "Az ő ellenére bejutottam a céghez.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_857",
+        "Sent": "Emil tanácsa volt, hogy távozzunk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_858",
+        "Sent": "Ili ki is ment a kertbe.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_859",
+        "Sent": "Péter ruhát mos.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_860",
+        "Sent": "Mari hízott birkózónak.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_861",
+        "Sent": "A pápa Pestre való megérkezése miatt elmaradt az előadás.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_862",
+        "Sent": "Abban a pillanatban, amikor az autó elindult, átváltott a jelzőlámpa.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_863",
+        "Sent": "János lakik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_864",
+        "Sent": "Imre szörnyen gazdag volt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_865",
+        "Sent": "Ki látta a kútba való belezuhanást?",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_866",
+        "Sent": "A 20. században történt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_867",
+        "Sent": "Hogy távozzunk, Emil tanácsa volt az.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_868",
+        "Sent": "Londonban az a helyzet, hogy a felügyelő döntésre jutott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_869",
+        "Sent": "Artúr nagyon locsolta meg a virágokat.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_870",
+        "Sent": "Kati Ferivel is barátságos volt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_871",
+        "Sent": "Só nélkül készült az ebéd.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_872",
+        "Sent": "Az iskola legismertebb tanáraként ezt nem engedhetem meg magamnak.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_873",
+        "Sent": "Péter a fa mellett lakik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_874",
+        "Sent": "A filmet rendezte: Jancsó Miklós.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_875",
+        "Sent": "A kapitány sokára érkezett a kastélyba.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_876",
+        "Sent": "Sokan érdeklődtek a biztonsági emberek összeesküvése felől a király ellen.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_877",
+        "Sent": "Mari idegesnek látszott.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_878",
+        "Sent": "El kell mennem.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_879",
+        "Sent": "Piroska vett észre egy színes televíziót, és vásárolta meg.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_880",
+        "Sent": "Nekem el kell mennem.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_881",
+        "Sent": "János hidegen ette meg a levest.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_882",
+        "Sent": "A tészta megdagadt az élesztőtől.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_883",
+        "Sent": "Pálnak a helyében nem tenném ezt.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_884",
+        "Sent": "Csak Béla ment el.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_885",
+        "Sent": "Énekesben én csalódtam keservesen.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_886",
+        "Sent": "Jött le a lépcsőn, amikor megszólalt a telefon.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_887",
+        "Sent": "Az edző büszke a fiúkra.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_888",
+        "Sent": "Imrét senki észre nem vette.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_889",
+        "Sent": "Péter az erdőben lakik.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_890",
+        "Sent": "Bálint kézbe vesz egy tollat.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_891",
+        "Sent": "Sokan nem úgy tudják, hogy ez a szervezet vagyontalan.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_892",
+        "Sent": "Imre Erzsivel találkozik gyakran, Lajos pedig Marival.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_893",
+        "Sent": "Az almának rohadt volt a fele.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_894",
+        "Sent": "A bor hidegen tartása nagyon fontos.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_895",
+        "Sent": "Péter dolgozni akar.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_896",
+        "Sent": "A kapitány rosszul teljesítette a feladatot.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_897",
+        "Sent": "Kati belenyugodott a döntésbe.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_898",
+        "Sent": "Ili jól oldotta meg a feladatot.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_899",
+        "Sent": "Olívia jól oldotta meg az ügyet.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_900",
+        "Sent": "Nagyon tetszett a film.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_901",
+        "Sent": "Feri újranevettette Marit.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_902",
+        "Sent": "Ez szép volt tőled.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_903",
+        "Sent": "Sanyi cselédre tekinti a feleségét.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_904",
+        "Sent": "A szerelő megérkezésekor éppen szivárgott ki víz a falból.",
+        "Label": "0"
+    },
+    {
+        "Sent_id": "dev_905",
+        "Sent": "Péter rosszulléte megijesztett.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_906",
+        "Sent": "Viszonteladók részére kedvezményt biztosítunk.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_907",
+        "Sent": "Tetszik Várady Géza könyve, amelyik új módon tárgyalja a szabadságharcot.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_908",
+        "Sent": "János nem veszett össze velük.",
+        "Label": "1"
+    },
+    {
+        "Sent_id": "dev_909",
+        "Sent": "Ili masszőrnél van.",
+        "Label": "1"
+    }
+]
