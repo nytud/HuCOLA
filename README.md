@@ -35,15 +35,19 @@ The corpus is available under the license CC-BY-SA 4.0. If you use this corpus, 
 ## Citation
 
 If you use this resource or any part of its documentation, please refer to:
-
-Ligeti-Nagy, N., Ferenczi, G., Héja, E., Jelencsik-Mátyus, K., Laki, L. J., Vadász, N., Yang, Z. Gy. and Váradi, T. (2022) HuLU: magyar nyelvű benchmark adatbázis kiépítése a neurális nyelvmodellek kiértékelése céljából [HuLU: Hungarian benchmark dataset to evaluate neural language models]. XVIII. Magyar Számítógépes Nyelvészeti Konferencia. (in press)
-
+Ligeti-Nagy, N., Ferenczi, G., Héja, E., Jelencsik-Mátyus, K., Laki, L. J., Vadász, N., Yang, Z. Gy. and Váradi, T. (2022) HuLU: magyar nyelvű benchmark adatbázis
+kiépítése a neurális nyelvmodellek kiértékelése céljából [HuLU: Hungarian benchmark dataset to evaluate neural language models]. In: Berend, G., Gosztolya, G. and Vincze, V. (eds), XVIII. Magyar Számítógépes Nyelvészeti Konferencia. Szeged, Szegedi Tudományegyetem, Informatikai Intézet. 431–446.
 
 ```
+
 @inproceedings{ligetinagy2022hulu,
   title={HuLU: magyar nyelvű benchmark adatbázis kiépítése a neurális nyelvmodellek kiértékelése céljából},
   author={Ligeti-Nagy, N. and Ferenczi, G. and Héja, E. and Jelencsik-Mátyus, K. and Laki, L. J. and Vadász, N. and Yang, Z. Gy. and Váradi, T.},
   booktitle={XVIII. Magyar Számítógépes Nyelvészeti Konferencia},
-  year={2022}
+  year={2022},
+  pages = {431--446},
+  editors = {Berend, G. and Gosztolya, G. and Vincze, V.},
+  address = {Szeged},
+  publisher = {Szegedi Tudományegyetem, Informatikai Intézet}
 }
 ```
