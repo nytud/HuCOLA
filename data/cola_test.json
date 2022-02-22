@@ -1,4 +1,5 @@
-[
+{"metadata": "Test set of the HuCOLA corpus",
+ "data": [
     {
         "Sent_id": "test_0",
         "Sent": "Sokan tudták, hogy Aranka férjhez ment."
@@ -3640,3 +3641,5 @@
         "Sent": "Csak tőle tartok, hogy megsértettelek."
     }
 ]
+}
+ 
