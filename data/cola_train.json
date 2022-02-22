@@ -1,4 +1,7 @@
-[
+{
+    "metadata": "Training set of the HuCOLA corpus",
+    "data":
+    [
     {
         "Sent_id": "train_0",
         "Sent": "Az Angliáról való könyv tetszik.",
@@ -36370,3 +36373,4 @@
         "Label": "1"
     }
 ]
+}
