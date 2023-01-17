@@ -1,5 +1,5 @@
 # HuCOLA
-This is the home repository for the Hungarian Corpus of Linguistic Acceptability, which is also part of the Hungarian Language Understanding Evaluation Benchmark Kit ([HuLU](hulu.nlp.nytud.hu)). 
+This is the home repository for the Hungarian Corpus of Linguistic Acceptability, which is also part of the Hungarian Language Understanding Evaluation Benchmark Kit ([HuLU](hulu.nytud.hu)). 
 
 ## Data
 
