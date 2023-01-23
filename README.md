@@ -12,7 +12,7 @@ The sentences were collected by two human annotators from three linguistic books
 
 Each sentence was annotated by four human annotators. The final label of the sentence is the one assigned by the majority of the annotators.
 
-The proportion of train, validation and test sets is 80% (7276 sentences), 10% (900 sentences) and 10% (900 sentences), respectively, following the proportion of the English Corpus of Linguistic Acceptability (as in the GLUE benchmark). The test set is distributed without the labels; to evaluate your model please contact us (ligeti-nagy.noemi@nytud.hu) or visit [HuLU's website](hulu.nlp.nytud.hu) for an automatic evaluation (under construction). The metric of the evaluation is Matthew's Correlation Coefficient.
+The proportion of train, validation and test sets is 80% (7276 sentences), 10% (900 sentences) and 10% (900 sentences), respectively, following the proportion of the English Corpus of Linguistic Acceptability (as in the GLUE benchmark). The test set is distributed without the labels; to evaluate your model please contact us (ligeti-nagy.noemi@nytud.hu) or visit [HuLU's website](hulu.nytud.hu) for an automatic evaluation (under construction). The metric of the evaluation is Matthew's Correlation Coefficient.
 
 ## Data format
 
